@@ -144,7 +144,7 @@ Business/Technology Value
 
 ------
 
-###### Perficient Client - Perficient : *BrightPaths 1 Technical Trainer* : __Apr-2020-Jan-2021
+###### Perficient Client - Perficient : *BrightPaths 1 Technical Trainer* : __Apr-2020-Jan-2021__
 
 [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
 
