@@ -13,3 +13,10 @@ A curriculum vitae (CV) is an academic diary that lists all of your education, e
 - Enable Github Pages publish from branch 'gh-pages' and folder '/docs'
 - Locally create markdown-cv/docs/index.md
 - Upload to github as starting point
+
+## Publish
+The branch configuration for the repository pages setup is set to publish the gh-pages branch.  Update the gh-pages branch from the source main branch to effective the default published github page.
+
+- Create new pull request
+- gh-pages < main
+- Complete pull request
