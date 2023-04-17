@@ -1,15 +1,18 @@
 # Robert (Bob) Kranson
-## Technical Architect, DevOps Lead
+## Technical Architect, DevOps Lead, SSM, CSM
+## Sterling Heights (Metro Detroit), Michigan, United States
 
-> [Download PDF](resume.pdf)  
+> [Linked-In](https://www.linkedin.com/in/bobkranson) | [Download PDF](resume.pdf)  
 > [devopsbob@outlook.com](devopsbob@outlook.com)
 > (313) 555-1212
 
 ------
 
-### Profile {#profile}
+### Profile
 
 Software architect skilled in SAFe Agile methodology, DevSecOps tools, NodeJS/JavaScript and Java Enterprise Edition.  Advanced hardware and software design platform experience with multi-cloud, multi-tiered, distributed or containerized implementations with release pipeline and delivery technologies utilizing Azure DevOps or Jenkins and GitHub source management.
+
+Specialties: Adobe Experience Manager, IBM Content Navigator, IBM Content Platform Engine, Java Persistence Architectures (JPA), JBoss deployment, WebSphere deployment architectures, XML, XSLT, Java Enterprise Edition implementations and deployments, Oracle database tuning, MySQL database tuning, EJB application performance testing.
 
 ------
 
@@ -25,7 +28,7 @@ Software architect skilled in SAFe Agile methodology, DevSecOps tools, NodeJS/Ja
 * Agile Backlog Management: AzureDevOps, CA-Rally, JIRA
 * DevOps Tools Artisan, Secure Configuration Integrations
 
-### Techical {#technical}
+### Technical
 
 * Data: S3, RedShift, Databricks, Excel, Scala
 * Integration: Azure, Jenkins, OpenShift, Dynatrace, Maven, Gradle, Groovy scripting
@@ -38,9 +41,11 @@ Software architect skilled in SAFe Agile methodology, DevSecOps tools, NodeJS/Ja
 |Industry|Role|Activities|
 |--|--|--|
 |Major Healthcare|Business Analyst|Big data extract, transform, load, audit, modeling aid and functional reporting requirements gathering within agile team.|
+|Major Finance|DevOps Engineer|Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.|
 |Major Technology | Trainer / Technical Architect | Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates. |
-|Major Manufacturing | Platform Engineer | Configuration as code site management across multiple properties and technology implementations. |
-|Major Automotive    | Agile Transformation Coach | Promoted full-stack cloud-foundry technologies and tools to affect Development Operations (DevSecOps) methodologies implementation with complex partner and third-party integrations. |
+|Major Healthcare | DevOps Engineer | Develop prototypes and proofs to support technology migration and shift in-progress at client site. |
+|Major Manufacturing | AEM DevOps Engineer | Configuration as code site management across multiple properties and technology implementations. |
+|Major Automotive    | DevOps Agile Coach | Promoted full-stack cloud-foundry technologies and tools to affect Development Operations (DevSecOps) methodologies implementation with complex partner and third-party integrations. |
 |Major Banking	| Installation Architect | Designed, install, and configured overall system architecture.  Coordinated the work across multiple integration teams. |
 |Major Insurance | Technical Architect | Architect and technical lead for integration project.  Managed secure configuration integration and client support team training on platform to transition developed BPM solution. |
 |Major Automotive | Integration Architect | Installed and configured a multi-server, clustered WebSphere Server environment.  Documented run-book architecture and trained client administrators.  Provided advanced migration troubleshooting support. |
@@ -59,13 +64,14 @@ Software architect skilled in SAFe Agile methodology, DevSecOps tools, NodeJS/Ja
 * IBM Certified Professional
 * Microsoft Certified Professional
 
-### Experience {#experience}
+### Experience
 
-#### Perficient, Inc : Technical Architect : __March 2016-Present__
+#### [Perficient](https://www.perficient.com/) : *Technical Architect* : __March 2016-Present__
 
 ------
 
-###### Perficient Client - Blue Cross Blue Shield of Michigan : *Business Analyst* __Oct-2022-Mar-2023__
+<!-- [Blue Cross Blue Shield of Michigan](https://www.bcbsm.com/)  -->
+###### Perficient Client - Major Healthcare : *Business Analyst* : __Oct-2022-Mar-2023__
 
 Business analyst assisting big data analytics modelling and data movement between multiple vendor data stores.
 
@@ -84,7 +90,8 @@ Assist client and team to facilitate and define gathering requirements which inf
 
 ------
 
-###### Perficient Client - Cass Bank : *DevOps Engineer*  __Jan-2022-May-2022
+<!--  [Cass Bank](https://www.cassbank.com/)  [Gyve Application](https://gyve.com/)  -->
+###### Perficient Client - Major Finance : *DevOps Engineer* : __Jan-2022-May-2022__
 
 Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.
 
@@ -100,7 +107,9 @@ Business/Technology Value
 
 ------
   
-###### Perficient Client - Perficient, Inc : *BrightPaths 2 Technical Trainer* __Jan-2021-Dec-2021
+###### Perficient Client - Perficient : *BrightPaths 2 Technical Trainer* : __Jan-2021-Dec-2021__
+
+[Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
 
 Colleague on-boarding to multiple secured development environments including TFS/AzureDevOps, Confluence, and SharePoint 2020.  Agile backlog and ceremonies administered to engage new team members building user-interfaces using Angular, React, and Spring Boot software technologies.  Local development technology setup and upgrade assistance and documentation development.  Docker, docker-registry, Jenkins and Azure DevOps CI/CD implementation assistance and troubleshooting. 
  
@@ -119,7 +128,10 @@ Business/Technology Value
 
 ------
 
-###### Perficient Client - Health Alliance Plan : *DevOps Engineer* __Jul-2021-Sept-2021
+<!-- [Health Alliance Plan](https://www.hap.org/) -->
+###### Perficient Client - Major Healthcare : *DevOps Engineer* : __Jul-2021-Sept-2021__
+
+Develop prototypes and proofs to support technology migration and shift in-progress at client site.
 
 Responsibilities
 
@@ -132,7 +144,9 @@ Business/Technology Value
 
 ------
 
-###### Perficient Client - Perficient, Inc : *BrightPaths 1 Technical Trainer* __Apr-2020-Jan-2021
+###### Perficient Client - Perficient : *BrightPaths 1 Technical Trainer* : __Apr-2020-Jan-2021__
+
+[Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
 
 Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates.  Assist, delegate, and troubleshoot on-boarding to multiple DevOps delivery systems incorporating various Java, JavaScript, and Jenkins/AzureDevOps tooling utilization and exposures.  Operate as initial scrum master and promote role growth and attraction for team members to various specialties in the full-stack architecture paradigm. 
  
@@ -154,7 +168,8 @@ Business/Technology Value
 
 ------
  
-###### Perficient Client - Caterpillar : *AEM DevOps Engineer* __Oct-2020-Jan-2021
+<!-- [Caterpillar](https://www.caterpillar.com/)
+###### Perficient Client - Major Manufacturing : *AEM DevOps Engineer* : __Oct-2020-Jan-2021__
 
 Analyzed and integrated multiple site configurations to advise promoting development operations release train transition and management to DevOps right and left shift deployment strategies.  OpenShift 3 and OpenShift 4 Apache on-premises and cloud-based deployment migrations from IBM HTTP Server cluster configuration.  Multiple configuration and firewall negotiation troubleshooting. 
  
@@ -175,7 +190,8 @@ Business/Technology Value
 
 ------
 
-###### Perficient Client - Ford Motor Company : *DevOps Agile Coach* __Apr-2016-Jan-2020
+<!--  [Ford Motor Company](https://www.ford.com) -->
+###### Perficient Client - Major Manufacturing : *DevOps Agile Coach* : __Apr-2016-Jan-2020__
 
 Agile transformation impacting multiple teams utilizing Rally, Office tools, and requirements management software. Crafting agile Product conversions by detailing Continuous Integration (CI), Continuous Testing (CT), and Continuous Deployment (CD) implementing Jenkins with containers.  Influencing backlog and product setups in social platform integrations and multiple technology adaptions. 
  
@@ -198,9 +214,9 @@ Business/Technology Value
 
 ------
 
-##### Pyramid Solutions, Inc. : *Senior Software Engineer* __August 2013-March 2016__
+##### [Pyramid Solutions](https://pyramidsolutions.com/) : *Senior Software Engineer* : __August 2013-March 2016__
 
-Working with the Enterprise Content Management (ECM) group performing Installation Architecture duties implementing a multitude of IBM products -- IBM FileNet (5.2/5.2.1), IBM Case Manager, IBM Content Navigator (2.02/2.03), IBM Content Collector, IBM Content Search Services. 
+Enterprise Content Management (ECM) group performing IBM Case Manager 5.2.1 installation and solution development. Additional experiences with IBM Content Navigator plugin development - JSON, DOJO, CSS, Java, Javascript. Additional background applying installation architecture duties implementing a multitude of IBM products -- IBM FileNet, IBM Case Manager 5.2.1, IBM Content Navigator 2.0.3, IBM Content Collector, IBM Content Search Services. These products were installed under the WebSphere 8.5.5 environment on Windows Server 2012 R2 with high-encryption Secure Socket Layer (SSL) configuration and FINRA WORM compliant storage for non-repudiated storage of content. Integrated with an exceptional team we delivered advanced business process management using the IBM Case Manager and Pyramid Solutions created application solution for insurance and banking industries. 
  
 Responsibilities
 
@@ -216,10 +232,12 @@ Business/Technology Value
  
 ------
 
-##### HBM Prenscia (formerly HBM Inc. / nCode International) : *Applications Specialist* __February 2005- August 2013__
+##### [HBM Prenscia](https://www.hbkworld.com/) (formerly HBM Inc. / nCode International) : *Applications Specialist* : __February 2005-August 2013__
 
 Mentor and maintain new and existing customer installations and third-party associated products through multiple version upgrades of the ICE-flow Library and nCode Automation product. 
- 
+
+Enterprise integration architect specializing in deployment and product packaging. Acted to secure applications deployments via Secure Socket Layer configuration and software enhancements which enable nCode Automation software hardening through Single-Sign-On (SSO), HTTPS, FTPS, smart card and AD/LDAPS customer site integrations. The nCode Automation product provides web-based advanced statistical analysis of finite elements within the nCode brand suite. The signal processing capabilities provides condition based maintenance and engineering tests for design of durability and quality.
+
 Responsibilities
   
 * Provide advanced hardware configuration and architecture designs 
@@ -236,9 +254,9 @@ Business/Technology Value
 
 ------
 
-##### Compuware Corporation : *Customer Support Representative* __November 1993-November 2004__
+##### Compuware Corporation : *Customer Support Representative* : __November 1993-November 2004__
 
-Product technical training and Java 2 Enterprise Edition specifications applied to identify program environment quality and usability improvements. 
+Optimal products technical training and Java 2 Enterprise Edition specifications applied to identify program environment quality and usability improvements. 
  
 Responsibilities
 
@@ -255,7 +273,7 @@ Business/Technology Value
 
 ------
  
-*Senior Technical Support Analyst*
+###### Compuware Product - UNIFACE : *Senior Technical Support Analyst* : __2000-2003__
  
 UNIFACE is a fourth-generation database programming language implementing operating system independence via a proprietary runtime environment. 
 
@@ -273,7 +291,11 @@ Business/Technology Value
 
 ------
 
-#### Wayne State University : *Professional Technician* __September 2003-April 2004__
+###### Compuware Client - Ford Motor Company : *Technical Specialist* : __1995-1999__
+
+Global Study Process Allocation System application integration specializing in CAD image format management to the vehicle build information.
+
+#### Wayne State University : *Professional Technician* : __September 2003-April 2004__
 
 Develop and deliver 14-week course covering concept and implementation of Model Drive Architecture as provided by Compuware’s OptimalJ product. 
  
