@@ -54,15 +54,54 @@ Specialties: Adobe Experience Manager, IBM Content Navigator, IBM Content Platfo
 
 * Bachelor of Science, Central Michigan University 2014
 * Associate of Arts, Macomb Community College 1995
+* Business Data Processing, Warren Career Preparation Center 1990
+* Diploma, Warren High School 1990
 
 ### Professional Training/Certifications
 
-* SAFE 5.1, 2021
 * SAFE 5.1 Scrum Master, 2023
+* Certified SAFE 5.1 Agilist, October 2021
 * AEM DevOps Engineer
-* Jenkins Engineer 2020
-* IBM Certified Professional
-* Microsoft Certified Professional
+* Udemy, The Essential Guide for Effective Managers - June 2021
+* Udemy, Career Navigator: A Managers Guide to Career Development - April 2021
+* Udemy, The Practical BPMN 2.0 Master Class - July 2020
+* CloudBees Certified Jenkins Engineer - June 2020
+* CloudBees Jenkins Pipeline Fundamentals - June 2020
+* Scrum Alliance, Certified Scrum Master - August 2017
+* Adobe Experience Manager (AEM) 6.1 Certifications - multiple, 2017
+* IBM Certified Professional – IBM Content Navigator 2.0.2,  2014
+* Heiman-Miller Training, January 2010, January 2013
+* nCode International (United Kingdom), ICE-flow Library Developer, March 2005
+* EDUShare (Netherlands), Enterprise Java Beans, November 2001
+* EDUShare (Netherlands), IPlanet Overview, November 2001
+* EDUShare (USA), J2EE Primer, January 2001
+* Career Track: Mistake-Free Grammar and Proofreading, January 2000
+* SkillPath Seminars: Managing Multiple Projects, Objectives, Deadlines
+* Compuware Corp., DHTML Concepts, August 2000
+* Microsoft Certified Professional - October 1999
+* Professional Services Uniface Technical Specialist - November 1998
+* Compuware Corp., Uniface Development I, II, Forms, and Application Model Design, August 1995
+* Inside Windows Seminar Series, Mastering Computers Inc., Detroit, July 1995
+* Compuware Corp., Oracle for the Application Programmer, December 1994
+* Compuware Corp., Uniface 5.2 Training, October 1994
+* Compuware Corp., 'C' Programming, October 1994
+* Second Place: State Level, Michigan; Computer Specialist I, 1989
+* Second Place: State Level, Michigan; Spelling Competition, 1989
+* Teachers Assistant, Fuhrmann Junior High School; Sterling Heights, Michigan; 1985-1987
+
+### Professional / Community Involvement
+
+* Perficient, Bright Paths Program - 2021 thru 2022
+* Perficient, Detroit Foundry Team - 2021
+* Ford Motor Company – Digital Worker Expert - November 28, 2017
+* The Parade Company, Americas Thanksgiving Day Parade (Detroit) – multiple years
+* The Parade Company, Super Bowl XL Volunteer – February 2006
+* Wheatland Music Organization, traditional arts preservation society - multiple years
+* Detroit Grand Prix Association – multiple years
+* Ford Motor Company – CORL/CORL-NG 2010
+* Ford Motor Company - Global Study Process Allocation System (GSPAS 2.1 Release) - 1999
+* I-Speak Personality Assessment: Favored conditions - Primary=Sensor, Backup=Intuitor; Stress conditions - Primary=(equal)Sensor and Thinker, Backup=(equal) Intuitor and Feeler
+
 
 ### Experience
 
@@ -175,7 +214,7 @@ Analyzed and integrated multiple site configurations to advise promoting develop
  
 Responsibilities
 
-* Multiple technology roles – AEM, Linux Admin, OpenShift, HTTP Server 
+* Multiple technology roles – AEM 6.5, Linux Admin, OpenShift, HTTP Server 
 * Apache on AWS - Site and Configuration Management 
 * Akamai CDN site properties 
 * Infrastructure feature tooling and migration delivery 
@@ -229,6 +268,26 @@ Business/Technology Value
 * Reduced time to market for complex product testing 
 * Created reusable document templates for repeatable installation procedures 
 * Increased responsiveness to client secure configuration troubleshooting 
+
+*Platform and Testing Support – Senior Software Engineer*
+
+Created install base for IBM Content Manager 8.4 software on Windows 2003 server which was connected to Windows Server 2012R2 configuration hosting P8 to create and test interfaces for Snowbound VirtualViewer development.  This code created IBM FileNet Content Platform Engine 5.2 software connectivity to the Snowbound VirtualViewer using IBM Content Navigator (ICN) version 2.0.3 plugin connection software artifact and separate web container artifact that connected the repository to the viewer for content viewing and markup.  Also created Content Manager On Demand (ODWEK) configuration on separate virtual machine for development and connectivity tests to the same viewer.  Duration:  4 months; October 2015 to January 2016
+
+*Technical Testing Lead Engineer – Senior Software Engineer*
+
+Provide installation services and development support for new tool which exported data from Content Manager 8.4 to Pyramid Solutions ingestion toolkit named Migration Manager.  This new tool was drafted for functionality and then recreated in a multi-threaded configuration for performance needs.  The refactored tool increased processing speeds from 2-5 documents per second to over 20 documents per second.  Additional test and configuration management assisted developing this tool for notelogs and annotations conversions from Content Manager 8.4.  Duration: 3 months; December 2015 to February 2016
+
+*Installation and Configuration Management – Senior Software Engineer*
+
+Installed multiple of software on Red Hat Linux 6.5 platform for major banking institution.  Developed installation and configuration runbook and documented details to install software, create and manage security and provided a rollout document to prepare and deploy solution between environments.  This was a reoccurring engagement from a previous install effort executed as an agile exercise to install and create the environment for this client.  Additional responsibilities included overseeing configuration and integration of SSL certificates, database creation and tuning, web server and plugin configurations under the WebSphere environment as well as various details to assist development and analyst team members to create and promote the solution.  Duration: 9 months; February 2015 to November 2015
+
+*IBM Content Navigator Plugin Developer – Senior Software Engineer*
+
+Created development profile and initial approach to new IBM Content Navigator (ICN) plugin development for large auto-insurance provider located in Lansing, Michigan.  This work provided and outline and approach to development of new software artifacts under the new software paradigm of ICN to create additional functionality via plugins.  The code integrated third-party web services data using external data services and created custom DOJO presentation widgets to provide custom search and retrieve functionality from the system of record hosted software calling into the ICN plugin.  The development approach was clearly documented and reused by members of the team to create additional ICN plugins and functionality per their various requirements.  Duration: 4 months; August 2014 to November 2014
+
+*5.1 to 5.2 Migration Engineer – Senior Software Engineer*
+
+Provide software installation services and migration impact analysis and procedure documentation for large banking institution located in Troy, Michigan.  This project allowed for analysis of new software configuration and environment management to move the various client repositories from IBM FileNet 5.1 to IBM Content Platform Engine 5.2 in an existing and highly-available environment.  Various mappings of functionality, security, management of content and network configurations were considered for migration and update.  These included uses of IBM Records Management, Cognos Real-Time-Monitoring and hardware and platform considerations for Red Hat 6.5 environment upgrade for the IBM content repository configurations.  This provided re-usable instructions to migration each environment to the new software with minimal impact to the users and how to recycle hardware into the new configuration to provide improve response time and equal processing.  Duration: 5 months; February 2014 to June 2014
  
 ------
 
@@ -250,7 +309,19 @@ Business/Technology Value
 * Reduce product installation time from two weeks to 10 minutes 
 * Improve customer and field engineer relations 
 * Create repeatable load testing and metrics reports for software performance 
-* Agile spike porting software from EJB 2 to EJB 3 technology 
+* Agile spike porting software from EJB 2 to EJB 3 technology
+
+nCode Automation is a data management interface application used to perform fatigue engineering analysis.  The application framework is based on a mixed implementation of J2EE infrastructure and workbench coupled with a C++ application server performing file manipulation and statistical computation against a range of data acquisition unit, time-series datasets.  RPC data formats taken from test harness hardware are archived, manipulated, and managed across projects and roles implemented at a given client.  Major clients include Chrysler, American Axle, Ford, Hyundai, Nexteer and Lockheed Martin.
+
+*Automation Support - Applications Specialist*
+
+Mentor and maintain existing customer installations and third-party associated products through multiple version upgrades of the ICE-flow Library and nCode Automation product.  Provide advanced hardware configuration and architecture design, implementation, and support assistance throughout customer system life-cycles to improve and update usage paradigms of the nCode Automation product.  Develop and execute scalability and load testing utilizing complex data design with XSL and XML scripting to improve user experience and software performance.  Isolate network and hardware configurations tested against nCode Automation using Facilita Forecast Web load testing software under WebSphere 6.1, WebSphere 7, JBoss 4 and Oracle 11
+
+*Automation Developer - Applications Specialist*
+
+Apply a web-component design and implementation using a custom Java swing interface.  The core processing uses Enterprise Java Beans and direct data access to store Meta data regarding test data or RPC acquisition information.  Core statistical functions are accessed via XML interchange to a proprietary C++ application server, GlyphWorks, which provides work-flow statistical applications and statistics graphing output.  Develop and deliver a five day product certification course to company internal engineers (application users) representing England, China, South Korea, and United States resellers and engineering users.
+
+Major accomplishments included structuring and definition of the multiple component application build system using Maven 1.x and 3.x, EJB 2.0 to 3.1 and JPA 2.0 proof of concept code porting, customer support processes definition using Salesforce and internal application of nCode Automation as well as release management and service level agreement negotiation for legacy customers migrating to the updated application platform.  Additional responsibilities included general Information Technology support for network and mail applications negotiated between United Kingdom and United States offices in addition to capacity planning and support infrastructure recommendations.  Induction training for this position was achieved during a one month stay in Sheffield, England at the United Kingdom headquarters.
 
 ------
 
@@ -271,11 +342,21 @@ Business/Technology Value
 * Manage multiple product lines support 
 * Provide high-quality response and management to clients as a level 3 technician 
 
+###### Compuware Product - OptimalJ :*Technical Support Analyst* : __2003-2004__
+
+OptimalJ, a Java 2 Enterprise Edition (J2EE) software product developed by Compuware Corporation, was the first product to implement the entire Model Driven Architecture (MDA) paradigm as defined by the Object Management Group (OMG).  The OptimalJ product was retired by Compuware in 2008.  
+
+###### Compuware Product - OptimalJ : *Customer Service Representative* : __2002-2003__
+
+Product technical training and Java 2 Enterprise Edition specifications applied to identify program environment quality and usability improvements. External use-groups and internal reporting system monitored with responses provided to internal employee and external customer questions regarding Model Driven Architecture and implementation using J2EE platform. Collaborated advanced deployment architecture issue resolution and problem isolation to identify product or vendor origination of problem. Provide training and documentation input and feedback during product life-cycle to improve overall ease of use and clarity of J2EE specification interpretation. Advised team leader role to improve product call center logistics and support role duties. 
+
 ------
  
-###### Compuware Product - UNIFACE : *Senior Technical Support Analyst* : __2000-2003__
+###### Compuware Product - UNIFACE : *Senior Technical Support Analyst* : __2000-2002__
  
-UNIFACE is a fourth-generation database programming language implementing operating system independence via a proprietary runtime environment. 
+Uniface is a fourth generation database programming language implementing operating system independence via a proprietary runtime environment which originates from 1987 and is still actively marketed. Uniface implements portions of the International Standards Organization 7 layer architecture using a three schema architecture approach to manage its database and platform independence.
+
+Perform personnel support for advanced implementations and problem recreations. Client-server and web portal application implementation issues requiring detailed protocol and system analysis. Assist management to create and integrate scheme which established work queue rotations.  Develop subject matter expert matrix for quality customer response and team member training needs. Product training courses presented utilizing NetMeeting and coordinated conference calls. Instruction provided for concepts and basic implementations of JavaScript, Java, web site configurations, program breakdown and debugging.  Instruction and facilitation of training provided on presented in person during Beta product delivery knowledge transfer, and product special interest group support with exercises on UNIFACE product versions 5.2.g2 through 8.2.03.
 
 Responsibilities
  
@@ -295,6 +376,8 @@ Business/Technology Value
 
 Global Study Process Allocation System application integration specializing in CAD image format management to the vehicle build information.
 
+------
+
 #### Wayne State University : *Professional Technician* : __September 2003-April 2004__
 
 Develop and deliver 14-week course covering concept and implementation of Model Drive Architecture as provided by Compuware’s OptimalJ product. 
@@ -311,4 +394,18 @@ Business/Technology Value
 
 * Create business to academia synergies for technology and industry 
 * Provide distilled and practical training for advanced technology concepts
+
+------
+
+#### [Art Van Furniture](https://www.artvan.com/) : *Warehouse Delivery* : __September 1991-June 1993__
+
+#### [St Vincent Depaul Society](https://svdpdetroit.org) : *Truck Driver/Helper* : __May 1992-June 1993__
+
+#### [Crain Communications](https://www.crain.com/) : *Programmer Trainee* : __May 1990-August 1991__
+
+#### [Capraros Italian Den](https://www.activediner.com/capraros-italian-den/restaurant/troy/mi/us/profile/144250) : *Pizza Cook* : __February 1989-April 1991__
+
+#### [Jetts Pizza](https://www.jetspizza.com/) : *Cashier* : __June 1988-December 1988__
+
+
 
