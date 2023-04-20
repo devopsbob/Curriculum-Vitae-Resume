@@ -98,14 +98,13 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 * Perficient, Bright Paths Program - 2021 thru 2022
 * Perficient, Detroit Foundry Team - 2021
 * Ford Motor Company – Digital Worker Expert - November 28, 2017
-* The Parade Company, Americas Thanksgiving Day Parade (Detroit) – multiple years
+* [The Parade Company](https://theparade.org/), Americas Thanksgiving Day Parade (Detroit) – multiple years
 * The Parade Company, Super Bowl XL Volunteer – February 2006
-* Wheatland Music Organization, traditional arts preservation society - multiple years
-* Detroit Grand Prix Association – multiple years
+* [Wheatland Music Organization](https://www.wheatlandmusic.org/), traditional arts preservation society - multiple years
+* [Detroit Grand Prix Association](https://detroitgp.com/volunteer/) – multiple years
 * Ford Motor Company – CORL/CORL-NG 2010
 * Ford Motor Company - Global Study Process Allocation System (GSPAS 2.1 Release) - 1999
 * I-Speak Personality Assessment: Favored conditions - Primary=Sensor, Backup=Intuitor; Stress conditions - Primary=(equal)Sensor and Thinker, Backup=(equal) Intuitor and Feeler
-
 
 ### Experience
 
@@ -410,6 +409,8 @@ Business/Technology Value
 #### [Capraros Italian Den](https://www.activediner.com/capraros-italian-den/restaurant/troy/mi/us/profile/144250) : *Pizza Cook* : __February 1989-April 1991__
 
 #### [Jetts Pizza](https://www.jetspizza.com/) : *Cashier* : __June 1988-December 1988__
+
+------
 
 ### Technology Domain References
 
