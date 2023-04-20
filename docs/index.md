@@ -10,9 +10,13 @@
 
 ### Profile
 
-Software architect skilled in SAFe Agile methodology, DevSecOps tools, NodeJS/JavaScript and Java Enterprise Edition.  Advanced hardware and software design platform experience with multi-cloud, multi-tiered, distributed or containerized implementations with release pipeline and delivery technologies utilizing Azure DevOps or Jenkins and GitHub source management.
+As a technical architect, I have expertise in various areas, including SAFe Agile methodology, DevSecOps tools, NodeJS/JavaScript, and Java Enterprise Edition. Additionally, I have advanced experience in designing platforms for hardware and software, with a focus on multi-cloud, multi-tiered, distributed, or containerized implementations. I'm also well-versed in release pipeline and delivery technologies, utilizing Azure DevOps or Jenkins and GitHub source management.
 
-Specialties: Adobe Experience Manager, IBM Content Navigator, IBM Content Platform Engine, Java Persistence Architectures (JPA), JBoss deployment, WebSphere deployment architectures, XML, XSLT, Java Enterprise Edition implementations and deployments, Oracle database tuning, MySQL database tuning, EJB application performance testing.
+- Content Management: Adobe Experience Manager, IBM Content Navigator, IBM Content Platform Engine
+- Java Technologies: SpringBoot, Java Persistence Architectures (JPA), Java Enterprise Edition implementations
+- Deployments: Cloud Image Containers and Registries, Nexus, JFrog, Docker, Java, NodeJS, JBoss, WebSphere Network
+- Database Technologies: Oracle database tuning, MySQL database tuning, MS-SQL database
+- Markup Languages: XML, XSLT, HTML
 
 ------
 
@@ -59,7 +63,7 @@ Specialties: Adobe Experience Manager, IBM Content Navigator, IBM Content Platfo
 
 ### Professional Training/Certifications
 
-* SAFE 5.1 Scrum Master, 2023
+* [SAFE](https://scaledagileframework.com/) 5.1 Scrum Master, 2023
 * Certified SAFE 5.1 Agilist, October 2021
 * AEM DevOps Engineer
 * Udemy, The Essential Guide for Effective Managers - June 2021
@@ -72,7 +76,7 @@ Specialties: Adobe Experience Manager, IBM Content Navigator, IBM Content Platfo
 * IBM Certified Professional – IBM Content Navigator 2.0.2,  2014
 * Heiman-Miller Training, January 2010, January 2013
 * nCode International (United Kingdom), ICE-flow Library Developer, March 2005
-* EDUShare (Netherlands), Enterprise Java Beans, November 2001
+* [EDUShare (Netherlands)](https://www.edu-share.nl/), Enterprise Java Beans, November 2001
 * EDUShare (Netherlands), IPlanet Overview, November 2001
 * EDUShare (USA), J2EE Primer, January 2001
 * Career Track: Mistake-Free Grammar and Proofreading, January 2000
@@ -94,14 +98,13 @@ Specialties: Adobe Experience Manager, IBM Content Navigator, IBM Content Platfo
 * Perficient, Bright Paths Program - 2021 thru 2022
 * Perficient, Detroit Foundry Team - 2021
 * Ford Motor Company – Digital Worker Expert - November 28, 2017
-* The Parade Company, Americas Thanksgiving Day Parade (Detroit) – multiple years
+* [The Parade Company](https://theparade.org/), Americas Thanksgiving Day Parade (Detroit) – multiple years
 * The Parade Company, Super Bowl XL Volunteer – February 2006
-* Wheatland Music Organization, traditional arts preservation society - multiple years
-* Detroit Grand Prix Association – multiple years
+* [Wheatland Music Organization](https://www.wheatlandmusic.org/), traditional arts preservation society - multiple years
+* [Detroit Grand Prix Association](https://detroitgp.com/volunteer/) – multiple years
 * Ford Motor Company – CORL/CORL-NG 2010
 * Ford Motor Company - Global Study Process Allocation System (GSPAS 2.1 Release) - 1999
 * I-Speak Personality Assessment: Favored conditions - Primary=Sensor, Backup=Intuitor; Stress conditions - Primary=(equal)Sensor and Thinker, Backup=(equal) Intuitor and Feeler
-
 
 ### Experience
 
@@ -407,5 +410,61 @@ Business/Technology Value
 
 #### [Jetts Pizza](https://www.jetspizza.com/) : *Cashier* : __June 1988-December 1988__
 
+------
 
+### Technology Domain References
 
+Release dates and vendors for each of the technologies mentioned:
+
+- Adobe Experience Manager: The first version was released in 2013 by Adobe Systems.
+- IBM Content Navigator: The first version was released in 2012 by IBM.
+- IBM Content Platform Engine: The first version was released in 2010 by IBM.
+- Java Persistence Architectures (JPA): JPA is a Java specification that was first released in 2006 as part of the Java EE 5 platform.
+- JBoss deployment: JBoss AS (Application Server) is an open-source Java EE-based application server that was first released in 2002 by JBoss (now owned by Red Hat).
+- WebSphere deployment architectures: IBM WebSphere Application Server is a Java EE-based application server that was first released in 1998 by IBM.
+- XML: XML 1.0 was released as a W3C recommendation in 1998.
+- XSLT: XSLT 1.0 was released as a W3C recommendation in 1999.
+- Java Enterprise Edition implementations and deployments: Java EE (formerly J2EE) is a platform for developing and deploying enterprise Java applications. The first version (J2EE 1.2) was released in 1999.
+- Oracle database tuning: Oracle Corporation has been developing and releasing various versions of its flagship database product, Oracle Database, since the late 1970s. The latest major version, Oracle Database 21c, was released in 2020.
+- MySQL database tuning: MySQL is an open-source relational database management system that was first released in 1995 by MySQL AB (now owned by Oracle Corporation). The latest major version, MySQL 8.0, was released in 2018.
+- EJB application performance testing: Enterprise JavaBeans (EJB) is a Java EE component architecture for building distributed applications. EJB 1.0 was released as part of Java EE 1.2 in 1999. There are several tools available for testing EJB application performance, such as JMeter and LoadRunner.
+- S3: Amazon S3 (Simple Storage Service) was first released in 2006 by Amazon Web Services (AWS).
+- RedShift: Amazon Redshift is a data warehouse product developed and released by AWS in 2012.
+- Databricks: Databricks is a data analytics platform founded by the creators of Apache Spark. The company was founded in 2013.
+- Excel: Microsoft Excel is a spreadsheet program developed and released by Microsoft in 1985.
+- Scala: Scala is a general-purpose programming language that was first released in 2003 by EPFL (École Polytechnique Fédérale de Lausanne).
+- Azure: Microsoft Azure is a cloud computing platform developed and released by Microsoft in 2010.
+- Jenkins: Jenkins is an open-source automation server for building, testing, and deploying software. It was originally developed as Hudson in 2004, and later renamed Jenkins in 2011.
+- OpenShift: OpenShift is a container application platform developed and released by Red Hat in 2011.
+- Dynatrace: Dynatrace is a software intelligence platform for monitoring and optimizing software environments. It was first released in 2005.
+- Maven: Apache Maven is a build automation tool for Java projects. The first version was released in 2004 by the Apache Software Foundation.
+- Gradle: Gradle is another build automation tool for Java projects, which was first released in 2007.
+- Groovy: Groovy is a dynamic programming language for the Java Virtual Machine (JVM). It was first released in 2003 by James Strachan and Bob McWhirter.
+- Visio: Microsoft Visio is a diagramming and vector graphics application developed and released by Microsoft in 1992.
+- MS Teams/O365: Microsoft Teams is a collaboration platform developed by Microsoft as part of its Office 365 suite of products. It was first released in 2017.
+- WebEx Teams: Webex Teams is a collaboration platform developed by Cisco Systems. It was originally released as Cisco Spark in 2015 and later renamed to Webex Teams in 2018.
+- BlueScape: Bluescape is a digital visual collaboration platform developed and released by Bluescape Inc.
+- BluePrint/Storyteller: Blueprint (formerly known as Storyteller) is a visual diagramming and documentation tool developed by Blueprint Software Systems.
+- K8s: Kubernetes (K8s) is an open-source container orchestration platform developed by Google. The first version was released in 2014.
+- YAML: YAML (short for "YAML Ain't Markup Language") is a human-readable data serialization format. It was first released in 2001.
+- Docker/Podman: Docker is a containerization platform that was first released in 2013 by Docker Inc. Podman is an alternative containerization platform developed by Red Hat.
+- Image Registry: An image registry is a place where Docker images (and other container images) can be stored and managed. Popular options include Docker Hub and Red Hat Quay.
+- SSL Administration: SSL (Secure Sockets Layer) is a protocol used for securing web traffic. SSL administration involves managing SSL certificates, configuring web servers to use SSL, and troubleshooting SSL-related issues.
+- OAuth2: OAuth 2.0 is an authorization framework for allowing third-party applications to access resources on behalf of a user. It was first released in 2012.
+- SSO: Single sign-on (SSO) is a method of authentication that allows users to access multiple applications using a single set of credentials. There are many different SSO solutions available, including Okta, Microsoft Azure AD, and Google Cloud
+- Model Driven Architecture (MDA): Released by Object Management Group (OMG) in 2003.
+- Unified Modelling Language (UML): Initially released by Rational Software in 1997 and later acquired by IBM.
+- Java technology: Developed by Sun Microsystems (later acquired by Oracle Corporation). The initial version of Java was released in 1996.
+- Compuware’s OptimalJ product: Developed and released by Compuware Corporation.
+- AIX: Developed and released by IBM.
+- SUN: The name refers to Sun Microsystems, which was acquired by Oracle Corporation. SUN's product Solaris was released in 1992.
+- SGI: Developed and released by Silicon Graphics Inc.
+- zOS: Developed and released by IBM for their mainframe systems.
+- AS400: Developed and released by IBM as a mid-range server platform.
+- Linux: Released in 1991 by Linus Torvalds and is currently maintained by the Linux community.
+- PC: Personal computers are a generic term used for desktop and laptop computers manufactured by different vendors.
+- Apple: Apple Inc. is the vendor of various products including Macintosh computers, iPhones, and iPads.
+- UNIFACE product versions 5.2.g2 through 8.2.03: Developed and released by Compuware Corporation.
+- International Standards Organization (ISO) 7 layer architecture: ISO/OSI Reference Model was introduced in 1983 by the International Organization for Standardization (ISO).
+- Maven 1.x and 3.x: Developed by the Apache Software Foundation. Maven 1.x was initially released in 2004, while Maven 3.x was released in 2010.
+- EJB 2.0 to 3.1 and JPA 2.0: Java Enterprise Edition (EE) specifications developed and maintained by the Java Community Process (JCP). EJB 2.0 was released in 2001, EJB 3.0 in 2006, and JPA 2.0 in 2009.
