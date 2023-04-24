@@ -97,7 +97,7 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 * Perficient, Bright Paths Program, 2021 thru 2022
 * Perficient, Detroit Foundry Team, 2021
-* Ford Motor Company, Digital Worker Expert - November 28, 2017
+* Ford Motor Company, Digital Worker Expert, November 2017
 * [The Parade Company](https://theparade.org/), Americas Thanksgiving Day Parade (Detroit), 10+ years
 * The Parade Company, Super Bowl XL Volunteer, February 2006
 * [Wheatland Music Organization](https://www.wheatlandmusic.org/), Festival Volunteer, 20+ years
