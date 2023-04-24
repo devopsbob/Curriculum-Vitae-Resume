@@ -65,45 +65,45 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 * [SAFE](https://scaledagileframework.com/) 5.1 Scrum Master, 2023
 * Certified SAFE 5.1 Agilist, October 2021
-* AEM DevOps Engineer
-* Udemy, The Essential Guide for Effective Managers - June 2021
-* Udemy, Career Navigator: A Managers Guide to Career Development - April 2021
-* Udemy, The Practical BPMN 2.0 Master Class - July 2020
-* CloudBees Certified Jenkins Engineer - June 2020
-* CloudBees Jenkins Pipeline Fundamentals - June 2020
-* Scrum Alliance, Certified Scrum Master - August 2017
-* Adobe Experience Manager (AEM) 6.1 Certifications - multiple, 2017
-* IBM Certified Professional – IBM Content Navigator 2.0.2,  2014
-* Heiman-Miller Training, January 2010, January 2013
+* Adobe, AEM DevOps Engineer
+* Udemy, The Essential Guide for Effective Managers, June 2021
+* Udemy, Career Navigator: A Managers Guide to Career Development, April 2021
+* Udemy, The Practical BPMN 2.0 Master Class, July 2020
+* CloudBees, Certified Jenkins Engineer, June 2020
+* CloudBees, Jenkins Pipeline Fundamentals, June 2020
+* Scrum Alliance, Certified Scrum Master, August 2017
+* Adobe, Adobe Experience Manager (AEM) 6.1 Certifications (multiple), 2017
+* IBM, IBM Certified Professional, IBM Content Navigator 2.0.2,  2014
+* Heiman-Miller, Concept Selling, January 2010, January 2013
 * nCode International (United Kingdom), ICE-flow Library Developer, March 2005
 * [EDUShare (Netherlands)](https://www.edu-share.nl/), Enterprise Java Beans, November 2001
 * EDUShare (Netherlands), IPlanet Overview, November 2001
 * EDUShare (USA), J2EE Primer, January 2001
-* Career Track: Mistake-Free Grammar and Proofreading, January 2000
-* SkillPath Seminars: Managing Multiple Projects, Objectives, Deadlines
+* Career Track, Mistake-Free Grammar and Proofreading, January 2000
+* SkillPath Seminars, Managing Multiple Projects, Objectives, Deadlines
 * Compuware Corp., DHTML Concepts, August 2000
-* Microsoft Certified Professional - October 1999
-* Professional Services Uniface Technical Specialist - November 1998
+* Microsoft, Microsoft Certified Professional, October 1999
+* Compuware Corp., Uniface Technical Specialist, November 1998
 * Compuware Corp., Uniface Development I, II, Forms, and Application Model Design, August 1995
-* Inside Windows Seminar Series, Mastering Computers Inc., Detroit, July 1995
+* Inside Windows Seminar Series, Mastering Computers Inc., July 1995
 * Compuware Corp., Oracle for the Application Programmer, December 1994
 * Compuware Corp., Uniface 5.2 Training, October 1994
 * Compuware Corp., 'C' Programming, October 1994
-* Second Place: State Level, Michigan; Computer Specialist I, 1989
-* Second Place: State Level, Michigan; Spelling Competition, 1989
-* Teachers Assistant, Fuhrmann Junior High School; Sterling Heights, Michigan; 1985-1987
+* Business Professionals of America, Second Place: State Level, Michigan; Computer Specialist I, 1989
+* Business Professionals of America, Second Place: State Level, Michigan; Spelling Competition, 1989
+* Warren Consolidated Schools, Teachers Assistant, Fuhrmann Junior High School; Sterling Heights, Michigan; 1985-1987
 
 ### Professional / Community Involvement
 
-* Perficient, Bright Paths Program - 2021 thru 2022
-* Perficient, Detroit Foundry Team - 2021
-* Ford Motor Company – Digital Worker Expert - November 28, 2017
-* [The Parade Company](https://theparade.org/), Americas Thanksgiving Day Parade (Detroit) – multiple years
-* The Parade Company, Super Bowl XL Volunteer – February 2006
-* [Wheatland Music Organization](https://www.wheatlandmusic.org/), traditional arts preservation society - multiple years
-* [Detroit Grand Prix Association](https://detroitgp.com/volunteer/) – multiple years
-* Ford Motor Company – CORL/CORL-NG 2010
-* Ford Motor Company - Global Study Process Allocation System (GSPAS 2.1 Release) - 1999
+* Perficient, Bright Paths Program, 2021 thru 2022
+* Perficient, Detroit Foundry Team, 2021
+* Ford Motor Company, Digital Worker Expert - November 28, 2017
+* [The Parade Company](https://theparade.org/), Americas Thanksgiving Day Parade (Detroit), 10+ years
+* The Parade Company, Super Bowl XL Volunteer, February 2006
+* [Wheatland Music Organization](https://www.wheatlandmusic.org/), Festival Volunteer, 20+ years
+* [Detroit Grand Prix Association](https://detroitgp.com/volunteer/), Track Services Volunteer, 7+ years
+* Ford Motor Company, CORL/CORL-NG, 2010
+* Ford Motor Company, Global Study Process Allocation System (GSPAS 2.1 Release), 1999
 * I-Speak Personality Assessment: Favored conditions - Primary=Sensor, Backup=Intuitor; Stress conditions - Primary=(equal)Sensor and Thinker, Backup=(equal) Intuitor and Feeler
 
 ### Experience
@@ -377,7 +377,21 @@ Business/Technology Value
 
 ###### Compuware Client - Ford Motor Company : *Technical Specialist* : __1995-1999__
 
-Global Study Process Allocation System application integration specializing in CAD image format management to the vehicle build information.
+Global Study Process Allocation System (GSPAS) application integration specializing in CAD image format management to the vehicle build information.
+
+Responsibilities
+
+* Facilitate project subteam to design and develop illustration to build deck instruction pages
+* Collaboratively integrate USA, United Kingdom, German build illustration management to overall system
+* Assist and identify required features and functionality for VisViewGT markup tool
+* Provide standardized integration using CGI image file format ingestion and management to early availability Oracle BLOB storage
+
+Business/Technology Value 
+
+* Consolidation of multiple partner technology solutions to commonized platform
+* Technology leadership utilizing UNIFACE
+* Delivery to global plant teams
+* Print and platform deployment to multiple host operating systems (AIX, HP, Sun UNIX, Windows PC NT4)
 
 ------
 
@@ -387,7 +401,7 @@ Develop and deliver 14-week course covering concept and implementation of Model 
  
 Responsibilities
 
-* Develop 14-week syllabus, courseware, and exams 
+* Develop 14-week syllabus, courseware, and exams
 * Assist Masters-level students in use and understanding of Java technology 
 * Assist Masters-level students in use and understanding of Unified Modelling Language 
 * Assist Masters-level students in interpretation and understanding of Model Driven Architecture 
