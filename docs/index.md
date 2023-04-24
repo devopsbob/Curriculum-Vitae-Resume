@@ -1,7 +1,5 @@
 # Robert (Bob) Kranson
 ## Technical Architect, DevOps Lead
-## 
-## 
 ## Sterling Heights (Metro Detroit), Michigan, United States
 
 > [Linked-In](https://www.linkedin.com/in/bobkranson) | [Download PDF](resume.pdf)  
