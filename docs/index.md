@@ -1,5 +1,7 @@
 # Robert (Bob) Kranson
-## Technical Architect, DevOps Lead, SSM, CSM
+## Technical Architect, DevOps Lead
+## 
+## 
 ## Sterling Heights (Metro Detroit), Michigan, United States
 
 > [Linked-In](https://www.linkedin.com/in/bobkranson) | [Download PDF](resume.pdf)  
@@ -63,17 +65,30 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 ### Professional Training/Certifications
 
-* [SAFE](https://scaledagileframework.com/) 5.1 Scrum Master, 2023
-* Certified SAFE 5.1 Agilist, October 2021
-* Adobe, AEM DevOps Engineer
+* Scaled Agile, [Certified SAFe 5 Scrum Master](https://v5.scaledagileframework.com/scrum-master), January 2023
+* Scaled Agile, Certified SAFe 5 Agilist, January 2023
+* Udemy, Business Writing & Technical Writing Immersion, October 2022
+* Udemy, Data Literacy for Business Professionals, October 2022
+* Udemy, JIRA Crash Course: Agile Project Management; Bonus Confluence, September 2022
+* Udemy, Build a Culture of Freedom and Responsibility by Patty McCord, August 2021
+* Udemy, Creating Team Vision, Mission, and Values, August 2021
+* Udemy, Effective Delegation for New Managers, August 2021
+* Udemy, Managing Change: Learn to Thrive Through Change, August 2021
+* Udemy, Mastering Collaboration: Work together for the best results, June 2021
 * Udemy, The Essential Guide for Effective Managers, June 2021
-* Udemy, Career Navigator: A Managers Guide to Career Development, April 2021
-* Udemy, The Practical BPMN 2.0 Master Class, July 2020
-* CloudBees, Certified Jenkins Engineer, June 2020
-* CloudBees, Jenkins Pipeline Fundamentals, June 2020
-* Scrum Alliance, Certified Scrum Master, August 2017
+* Udemy, Career Navigator: A Manager's Guide to Career Development, April 2021
+* Udemy, Getting Started With SharePoint Online, March 2021
+* Udemy, The Practical BPMN 2.0 Master Class, July 2021
+* Adobe, Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer, June 2020
+* CloudBees, Certified Jenkins Engineer 2020, June 2020
+* CloudBees, Jenkins - Fundamentals, June 2020
+* CloudBees, Jenkins Administration - Fundamentals, June 2020
+* CloudBees, Jenkins Pipeline - Fundamentals, June 2020
+* CloudBees, Jenkins Pipeline - Intermediate, June 2020
+* Scrum Alliance, Scrum Foundations, September 2019
+* Scrum Alliance, [Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster), August 2017
 * Adobe, Adobe Experience Manager (AEM) 6.1 Certifications (multiple), 2017
-* IBM, IBM Certified Professional, IBM Content Navigator 2.0.2,  2014
+* IBM, IBM Certified Solution Designer - Content Navigator V2.0.2, July 2014
 * Heiman-Miller, Concept Selling, January 2010, January 2013
 * nCode International (United Kingdom), ICE-flow Library Developer, March 2005
 * [EDUShare (Netherlands)](https://www.edu-share.nl/), Enterprise Java Beans, November 2001
@@ -82,7 +97,7 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 * Career Track, Mistake-Free Grammar and Proofreading, January 2000
 * SkillPath Seminars, Managing Multiple Projects, Objectives, Deadlines
 * Compuware Corp., DHTML Concepts, August 2000
-* Microsoft, Microsoft Certified Professional, October 1999
+* Microsoft, MCPS: Microsoft Certified Professional, October 1999
 * Compuware Corp., Uniface Technical Specialist, November 1998
 * Compuware Corp., Uniface Development I, II, Forms, and Application Model Design, August 1995
 * Inside Windows Seminar Series, Mastering Computers Inc., July 1995
