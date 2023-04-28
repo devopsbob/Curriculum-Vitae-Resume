@@ -1,6 +1,6 @@
-## Contact Information
+## Robert (Bob) Kranson
 
-Name: Robert (Bob) Kranson
+## Contact Information
 
 Location: Metro Detroit Area
 
@@ -8,7 +8,7 @@ Email: [devopsbob@outlook.com](devopsbob@outlook.com)
 
 Phone: (586) 555-1212
 
-Website link: https://devopsbob.github.io/Curriculum-Vitae-Resume
+Website link: [https://devopsbob.github.io/Curriculum-Vitae-Resume](https://devopsbob.github.io/Curriculum-Vitae-Resume)
 
 ------
 
