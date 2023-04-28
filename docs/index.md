@@ -1,10 +1,12 @@
 # Robert (Bob) Kranson
-## [Technical Architect](RobertKranson_TechnicalArchitect_Resume.md), DevOps Lead
+## [Technical Architect](RobertKranson_TechnicalArchitect_Resume.md), [DevOps Lead](RobertKranson_DevOpsLead_Resume.md)
 ## Sterling Heights (Metro Detroit), Michigan, United States
 
-> [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson) | [Robert Kranson Technical Architect Resume](RobertKranson_TechnicalArchitect_Resume.pdf)  
+> [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson) | [Robert Kranson Technical Architect Resume](RobertKranson_TechnicalArchitect_Resume.pdf) | [Robert Kranson DevOps Lead Resume](RobertKranson_DevOpsLead_Resume.pdf)
+> 
 > [devopsbob@outlook.com](devopsbob@outlook.com)
-> (313) 555-1212
+> 
+> (586) 555-1212
 
 ------
 
