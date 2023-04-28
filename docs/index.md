@@ -1,10 +1,12 @@
 # Robert (Bob) Kranson
-## Technical Architect, DevOps Lead
+## [Technical Architect](RobertKranson_TechnicalArchitect_Resume.md), [DevOps Lead](RobertKranson_DevOpsLead_Resume.md)
 ## Sterling Heights (Metro Detroit), Michigan, United States
 
-> [Linked-In](https://www.linkedin.com/in/bobkranson) | [Download PDF](resume.pdf)  
+> [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson) | [Robert Kranson Technical Architect Resume](RobertKranson_TechnicalArchitect_Resume.pdf) | [Robert Kranson DevOps Lead Resume](RobertKranson_DevOpsLead_Resume.pdf)
+> 
 > [devopsbob@outlook.com](devopsbob@outlook.com)
-> (313) 555-1212
+> 
+> (586) 555-1212
 
 ------
 
@@ -72,11 +74,11 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 * Udemy, Creating Team Vision, Mission, and Values, August 2021
 * Udemy, Effective Delegation for New Managers, August 2021
 * Udemy, Managing Change: Learn to Thrive Through Change, August 2021
+* Udemy, The Practical BPMN 2.0 Master Class, July 2021
 * Udemy, Mastering Collaboration: Work together for the best results, June 2021
 * Udemy, The Essential Guide for Effective Managers, June 2021
 * Udemy, Career Navigator: A Manager's Guide to Career Development, April 2021
 * Udemy, Getting Started With SharePoint Online, March 2021
-* Udemy, The Practical BPMN 2.0 Master Class, July 2021
 * Adobe, Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer, June 2020
 * CloudBees, Certified Jenkins Engineer 2020, June 2020
 * CloudBees, Jenkins - Fundamentals, June 2020
@@ -111,11 +113,11 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 * Perficient, Bright Paths Program, 2021 thru 2022
 * Perficient, Detroit Foundry Team, 2021
 * Ford Motor Company, Digital Worker Expert, November 2017
-* [The Parade Company](https://theparade.org/), Americas Thanksgiving Day Parade (Detroit), 10+ years
-* The Parade Company, Super Bowl XL Volunteer, February 2006
-* [Wheatland Music Organization](https://www.wheatlandmusic.org/), Festival Volunteer, 20+ years
-* [Detroit Grand Prix Association](https://detroitgp.com/volunteer/), Track Services Volunteer, 7+ years
 * Ford Motor Company, CORL/CORL-NG, 2010
+* [Wheatland Music Organization](https://www.wheatlandmusic.org/), Festival Volunteer, 20+ years
+* [The Parade Company](https://theparade.org/), Americas Thanksgiving Day Parade (Detroit), 10+ years
+* [Detroit Grand Prix Association](https://detroitgp.com/volunteer/), Track Services Volunteer, 7+ years
+* The Parade Company, Super Bowl XL Volunteer, February 2006
 * Ford Motor Company, Global Study Process Allocation System (GSPAS 2.1 Release), 1999
 * I-Speak Personality Assessment: Favored conditions - Primary=Sensor, Backup=Intuitor; Stress conditions - Primary=(equal)Sensor and Thinker, Backup=(equal) Intuitor and Feeler
 
@@ -427,15 +429,25 @@ Business/Technology Value
 
 ------
 
+#### [Taco Bell](https://www.tacobell.com/) : *Food Preparer* : __August 1993-October 1993__
+
 #### [Art Van Furniture](https://www.artvan.com/) : *Warehouse Delivery* : __September 1991-June 1993__
 
 #### [St Vincent Depaul Society](https://svdpdetroit.org) : *Truck Driver/Helper* : __May 1992-June 1993__
 
 #### [Crain Communications](https://www.crain.com/) : *Programmer Trainee* : __May 1990-August 1991__
 
-#### [Capraros Italian Den](https://www.activediner.com/capraros-italian-den/restaurant/troy/mi/us/profile/144250) : *Pizza Cook* : __February 1989-April 1991__
+#### [Capraros Italian Den](https://www.activediner.com/capraros-italian-den/restaurant/troy/mi/us/profile/144250) : *Pizza Chef* : __February 1989-April 1991__
 
-#### [Jetts Pizza](https://www.jetspizza.com/) : *Cashier* : __June 1988-December 1988__
+#### [Jetts Pizza](https://www.jetspizza.com/) : *Pizza Cook* : __June 1988-December 1988__
+
+#### [Antonio's Italian Cuisine](https://www.antoniositaliancuisine.com/) : *Dishwasher*
+
+#### [National Coney Island](https://nationalconeyisland.com/) : *Dishwasher*
+
+------
+
+References available upon request or may be reviewed at [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson)
 
 ------
 

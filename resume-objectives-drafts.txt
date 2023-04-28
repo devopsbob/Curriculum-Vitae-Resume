@@ -1,0 +1,23 @@
+Objective
+
+Create software solutions 
+
+Create and manipulate software solutions to implement best practices for security, accessibility, and scalability which exceed expectations in a timely manner.
+
+Implment high-quality release train mechanisms to achieve secure, accessible, and scalable software solution outcomes.
+
+Collaborate, build, and deploy secure scalable software solutions to realize positive business outcomes.
+
+Collaborate, define and establish mutually understood business objectives and desired outcomes utilizing software technology to implement highly-secure, robust, and scalable solutions.
+
+I create build and deployment frameworks to manage launching teams application or solution code.
+
+I adapt configuration as code and cloud or containerized applications into scalable and manageable release processes.
+
+I create tooling and developer enablement utilities to improve the quality, testability, and release deployment process.
+
+I manage and create backlogs and various technologies to implement software frameworks that deliver secure, highly-testable business applications.
+
+I enable agile and scaled agile teams delivery and execution through managed application of applicable standards and best-practices aligned to release train business objectives and outcomes.
+
+
