@@ -2,7 +2,7 @@
 ## [Technical Architect](RobertKranson_TechnicalArchitect_Resume.md), DevOps Lead
 ## Sterling Heights (Metro Detroit), Michigan, United States
 
-> [Linked-In](https://www.linkedin.com/in/bobkranson) | [Robert Kranson Technical Architect Resume](RobertKranson_TechnicalArchitect_Resume.pdf)  
+> [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson) | [Robert Kranson Technical Architect Resume](RobertKranson_TechnicalArchitect_Resume.pdf)  
 > [devopsbob@outlook.com](devopsbob@outlook.com)
 > (313) 555-1212
 
@@ -72,11 +72,11 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 * Udemy, Creating Team Vision, Mission, and Values, August 2021
 * Udemy, Effective Delegation for New Managers, August 2021
 * Udemy, Managing Change: Learn to Thrive Through Change, August 2021
+* Udemy, The Practical BPMN 2.0 Master Class, July 2021
 * Udemy, Mastering Collaboration: Work together for the best results, June 2021
 * Udemy, The Essential Guide for Effective Managers, June 2021
 * Udemy, Career Navigator: A Manager's Guide to Career Development, April 2021
 * Udemy, Getting Started With SharePoint Online, March 2021
-* Udemy, The Practical BPMN 2.0 Master Class, July 2021
 * Adobe, Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer, June 2020
 * CloudBees, Certified Jenkins Engineer 2020, June 2020
 * CloudBees, Jenkins - Fundamentals, June 2020
@@ -442,6 +442,10 @@ Business/Technology Value
 #### [Antonio's Italian Cuisine](https://www.antoniositaliancuisine.com/) : *Dishwasher*
 
 #### [National Coney Island](https://nationalconeyisland.com/) : *Dishwasher*
+
+------
+
+References available upon request or may be reviewed at [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson)
 
 ------
 
