@@ -1,11 +1,20 @@
 ## Contact Information
+
 Name: Robert (Bob) Kranson
+
 Location: Metro Detroit Area
+
 Email: [devopsbob@outlook.com](devopsbob@outlook.com)
+
 Phone: (586) 555-1212
-Website link: https://www.linkedin.com/in/bobkranson
+
+Website link: https://devopsbob.github.io/markdown-cv/
 
 ------
+
+## Objective
+
+I enable agile and scaled agile teams delivery and execution through managed application of applicable standards and best-practices aligned to release train business objectives and outcomes.
 
 ## Summary
 
