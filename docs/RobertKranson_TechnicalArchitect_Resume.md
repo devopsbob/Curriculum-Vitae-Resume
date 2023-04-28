@@ -115,3 +115,7 @@ Assist client and team to facilitate and define gathering requirements which inf
 #### Perficient Client - Major Manufacturing : *AEM DevOps Engineer* : __Oct-2020-Jan-2021__
 
 #### Perficient Client - Major Manufacturing : *DevOps Agile Coach* : __Apr-2016-Jan-2020__
+
+------
+
+References available upon request or may be reviewed at [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson)
