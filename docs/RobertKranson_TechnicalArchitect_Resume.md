@@ -12,6 +12,10 @@ Website link: https://devopsbob.github.io/markdown-cv/
 
 ------
 
+## Objective
+
+I manipulate new and existing technologies to implement software frameworks that deliver secure, highly-testable business applications.
+
 ## Summary
 
 As a technical architect, I have expertise in various areas, including SAFe Agile methodology, DevSecOps tools, NodeJS/JavaScript, and Java Enterprise Edition. Additionally, I have advanced experience in designing platforms for hardware and software, with a focus on multi-cloud, multi-tiered, distributed, or containerized implementations. I'm also well-versed in release pipeline and delivery technologies, utilizing Azure DevOps or Jenkins and GitHub source management.
@@ -62,11 +66,9 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 ## Professional Training and Certifications
 
 * Scaled Agile, [Certified SAFe 5 Scrum Master](https://v5.scaledagileframework.com/scrum-master), January 2023
-* Scaled Agile, Certified SAFe 5 Agilist, January 2023
 * Udemy, Managing Change: Learn to Thrive Through Change, August 2021
-* Udemy, Mastering Collaboration: Work together for the best results, June 2021
 * Udemy, The Practical BPMN 2.0 Master Class, July 2021
-* Scrum Alliance, Scrum Foundations, September 2019
+* Udemy, Mastering Collaboration: Work together for the best results, June 2021
 * Scrum Alliance, [Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster), August 2017
 * Adobe, Adobe Experience Manager (AEM) 6.1 Certifications (multiple), 2017
 
