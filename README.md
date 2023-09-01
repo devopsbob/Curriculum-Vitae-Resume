@@ -25,7 +25,7 @@ The branch configuration for the repository pages setup is set to publish the gh
 
 1. Use the Docs rendering in the browser
 1. Do Print to PDF
-1. Ensure the page layou is set to portrait and not landscape
+1. Ensure the page layout is set to portrait and not landscape
 1. Turn on Headers and Footers in the print dialog so it has date and title info on every page
 1. Save to resume.pdf
 1. Upload and commit to GIT repo in the docs folder
