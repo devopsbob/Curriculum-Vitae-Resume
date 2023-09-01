@@ -1,20 +1,11 @@
-## Robert (Bob) Kranson
-
 ## Contact Information
-
+Name: Robert (Bob) Kranson
 Location: Metro Detroit Area
-
 Email: [devopsbob@outlook.com](devopsbob@outlook.com)
-
 Phone: (586) 555-1212
-
-Website link: [https://devopsbob.github.io/Curriculum-Vitae-Resume](https://devopsbob.github.io/Curriculum-Vitae-Resume)
+Website link: https://www.linkedin.com/in/bobkranson
 
 ------
-
-## Objective
-
-I enable agile and scaled agile teams delivery and execution through managed application of applicable standards and best-practices aligned to release train business objectives and outcomes.
 
 ## Summary
 
@@ -52,6 +43,7 @@ As a development operations lead, I have expertise in various areas, including S
 
 |Industry|Role|Activities|
 |--|--|--|
+|Major Utility|Release Engineer|Develop Azure pipelines, supporting Wiki, ReactJS troubleshooting, deployment hardening, Scrum Master and Business analyst.|
 |Major Healthcare|Business Analyst|Big data extract, transform, load, audit, modeling aid and functional reporting requirements gathering within agile team.|
 |Major Finance|DevOps Engineer|Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.|
 |Major Technology | Trainer / Technical Architect | Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates. |
@@ -86,6 +78,25 @@ As a development operations lead, I have expertise in various areas, including S
 ### Experience
 
 #### [Perficient](https://www.perficient.com/) : *Technical Architect* : __March 2016-Present__
+
+------
+
+<!-- [DTE Energy](https://www.dteenergy.com/)  -->
+###### Perficient Client - Major Healthcare : *Release Engineer* : __Apr-2023-Sept-2023__
+
+Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and CosmosDB.
+
+Responsibilities
+
+* Business roles – Scrum Master, Business Analyst
+* Technology roles – Infrastructure Lead, Release Engineer, Site Reliability Engineer
+* Workflow tools – Azure DevOps, SharePoint, Office365
+
+Business/Technology Value
+
+* Utilize latest version of ArcGIS Enterprise
+* Utilize Azure Cloud hosting
+* Internet of Things (IOT) Geographical analysis of device health and troubleshootin
 
 ------
 
