@@ -1,12 +1,10 @@
 # Robert (Bob) Kranson
-## [Technical Architect](RobertKranson_TechnicalArchitect_Resume.md), [DevOps Lead](RobertKranson_DevOpsLead_Resume.md)
+## [Technical Architect](RobertKranson_TechnicalArchitect_Resume.md), DevOps Lead
 ## Sterling Heights (Metro Detroit), Michigan, United States
 
-> [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson) | [Robert Kranson Technical Architect Resume](RobertKranson_TechnicalArchitect_Resume.pdf) | [Robert Kranson DevOps Lead Resume](RobertKranson_DevOpsLead_Resume.pdf)
-> 
+> [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson) | [Robert Kranson Technical Architect Resume](RobertKranson_TechnicalArchitect_Resume.pdf)  
 > [devopsbob@outlook.com](devopsbob@outlook.com)
-> 
-> (586) 555-1212
+> (313) 555-1212
 
 ------
 
@@ -46,6 +44,7 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 |Industry|Role|Activities|
 |--|--|--|
+|Major Utility|Release Engineer|Develop Azure pipelines, supporting Wiki, ReactJS troubleshooting, deployment hardening, Scrum Master and Business analyst.|
 |Major Healthcare|Business Analyst|Big data extract, transform, load, audit, modeling aid and functional reporting requirements gathering within agile team.|
 |Major Finance|DevOps Engineer|Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.|
 |Major Technology | Trainer / Technical Architect | Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates. |
@@ -124,6 +123,25 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 ### Experience
 
 #### [Perficient](https://www.perficient.com/) : *Technical Architect* : __March 2016-Present__
+
+------
+
+<!-- [DTE Energy](https://www.dteenergy.com/)  -->
+###### Perficient Client - Major Healthcare : *Release Engineer* : __Apr-2023-Sept-2023__
+
+Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and CosmosDB.
+
+Responsibilities
+
+* Business roles – Scrum Master, Business Analyst
+* Technology roles – Infrastructure Lead, Release Engineer, Site Reliability Engineer
+* Workflow tools – Azure DevOps, SharePoint, Office365
+
+Business/Technology Value
+
+* Utilize latest version of ArcGIS Enterprise
+* Utilize Azure Cloud hosting
+* Internet of Things (IOT) Geographical analysis of device health and troubleshootin
 
 ------
 
