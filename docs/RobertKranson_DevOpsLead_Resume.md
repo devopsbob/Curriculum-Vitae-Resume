@@ -89,7 +89,7 @@ As a development operations lead, I have expertise in various areas, including S
 ------
 
 <!-- [DTE Energy](https://www.dteenergy.com/)  -->
-###### Perficient Client - Major Healthcare : *Release Engineer* : __Apr-2023-Sept-2023__
+###### Perficient Client - Major Utility : *Release Engineer* : __Apr-2023-Sept-2023__
 
 Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and CosmosDB.
 
