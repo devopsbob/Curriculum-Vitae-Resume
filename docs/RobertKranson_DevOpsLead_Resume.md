@@ -4,7 +4,7 @@ Name: Robert (Bob) Kranson
 
 Location: Metro Detroit Area
 
-Email: [devopsbob@outlook.com](devopsbob@outlook.com)
+Email: [bobkranson@gmail.com](mailto:bobkranson@gmail.com)
 
 Website link: [https://devopsbob.github.io/Curriculum-Vitae-Resume](https://devopsbob.github.io/Curriculum-Vitae-Resume)
 
@@ -18,69 +18,111 @@ I enable agile and scaled agile teams delivery and execution through managed app
 
 As a development operations lead, I have expertise in various areas, including SAFe Agile methodology, DevSecOps tools, NodeJS/JavaScript, and Java Enterprise Edition. Additionally, I have advanced experience in designing platforms for hardware and software, with a focus on multi-cloud, multi-tiered, distributed, or containerized implementations. I'm also well-versed in release pipeline and delivery technologies, utilizing Azure DevOps or Jenkins and GitHub source management.
 
-- Content Management: Adobe Experience Manager, IBM Content Navigator, IBM Content Platform Engine
-- Java Technologies: SpringBoot, Java Persistence Architectures (JPA), Java Enterprise Edition implementations
-- Deployments: Cloud Image Containers and Registries, Nexus, JFrog, Docker, Java, NodeJS, JBoss, WebSphere Network
-- Database Technologies: Oracle database tuning, MySQL database tuning, MS-SQL database
-- Markup Languages: XML, XSLT, HTML
+**Key Skills and Technologies:**
+- **Content Management**: Adobe Experience Manager, IBM Content Navigator, IBM Content Platform Engine
+- **JavaScript Technologies**: ECMAScript (ES6, ES8), TypeScript, Node.js, NPM, Next.js
+- **Java Technologies**: Spring Boot, Java Persistence API (JPA), Java Enterprise Edition (Java EE)
+- **Deployments**: Cloud Image Containers and Registries, Nexus, JFrog, Docker, Java, Node.js, JBoss, WebSphere Network
+- **Database Technologies**: Oracle, MySQL, MS-SQL, SQLite
+- **Markup Languages**: XML, XSLT, HTML, Markdown
 
 ------
 
 ### Roles
 
-* Business Analyst
-* DevSecOps Engineer / Technical Lead
-* Technology Coach / Agile Scrum Master
+- Business Analyst
+- DevSecOps Engineer / Technical Lead
+- Technology Coach / Agile Scrum Master
 
 ### Solutions
 
-* Big Data ETL/Cloud Integrations Requirements and Modelling
-* Agile Backlog Management: AzureDevOps, CA-Rally, JIRA
-* DevOps Tools Artisan, Secure Configuration Integrations
+- Next.js/ReactJS Site Securing and Deployment
+- Adobe Experience Manager, Adobe Cloud Environment
+- Agile Backlog Management: Azure DevOps, CA-Rally, JIRA
+- DevOps Tools Artisan, Secure Configuration Integrations
 
-## Skills
+### Industries
 
+ * Healthcare, Insurance and Finance
+ * Manufacturing Marketing and Engineering
+ * Utilities, Aerospace, and High-tech
+
+### Technical Skills
+
+* Cloud – Azure, AWS, GCP, GitLab, Adobe Cloud Environment
 * Data: S3, RedShift, Databricks, Excel, Scala
-* Integration: Azure, Jenkins, OpenShift, Dynatrace, Maven, Gradle, Groovy scripting
+* Integration: Azure DevOps, Jenkins, OpenShift, Dynatrace, Maven, Gradle, Nodejs
+* Testing: SonarQube, Postman, Cypress, Insomnia, Jest, Playwright
 * Collaboration: Visio, MS Teams/O365, WebEx Teams, BlueScape, BluePrint/Storyteller
-* Configuration as Code: K8s, YAML, Docker/Podman, Image Registry
-* Secure Platforms: SSL Administration, OAuth2, SSO, HashiCorp Vault 
+* Configuration as Code: Bicep, Terraform, OpenTofu, Docker/Podman, Container Image Registry
+* Secure Platforms: Next-Auth, SSL Administration, OAuth2, SSO, Hashi Corp Vault, GitHub, MS-Entra ID 
 
 ### Key Engagements
 
-|Industry|Role|Activities|
-|--|--|--|
-|Major Utility|Release Engineer|Develop Azure pipelines, supporting Wiki, ReactJS troubleshooting, deployment hardening, Scrum Master and Business analyst.|
-|Major Healthcare|Business Analyst|Big data extract, transform, load, audit, modeling aid and functional reporting requirements gathering within agile team.|
-|Major Finance|DevOps Engineer|Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.|
-|Major Technology | Trainer / Technical Architect | Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates. |
-|Major Healthcare | DevOps Engineer | Develop prototypes and proofs to support technology migration and shift in-progress at client site. |
-|Major Manufacturing | AEM DevOps Engineer | Configuration as code site management across multiple properties and technology implementations. |
-|Major Automotive    | DevOps Agile Coach | Promoted full-stack cloud-foundry technologies and tools to affect Development Operations (DevSecOps) methodologies implementation with complex partner and third-party integrations. |
+| Industry           | Role                          | Activities                                                                                                                                                                                                  |
+| ------------------ | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Major Automotive   | Busines Analyst               | Generative artificial intelligence impact and usage analysis on authoring process regarding staged release of engineering data.                                                                             |
+| Major Utility      | Technical Architect           | NextJS application framework adaption to legacy reports integrated to IBM Maximo asset management                                                                                                           |
+| Major Finance      | Release Engineer              | Adobe Cloud delivery code signing and functional delivery validation between on-premise and Adobe IO runtime environments                                                                                   |
+| Major Utility      | Release Engineer              | Develop Azure pipelines, supporting Wiki, ReactJS troubleshooting, deployment hardening, Scrum Master and Business analyst.                                                                                 |
+| Major Finance      | DevOps Engineer               | Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.                                                                                                               |
+| Major Technology   | Trainer / Technical Architect | Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates.                                                                                           |
 
-## Education
+### Education
 
-* Bachelor of Science, Central Michigan University 2014
+* Bachelor of Science in Integrated Leadership, Central Michigan University, 2014
 
-## Professional Training and Certifications
+### Professional Training/Certifications
 
-* Scaled Agile, [Certified SAFe 5 Scrum Master](https://v5.scaledagileframework.com/scrum-master), January 2023
-* Udemy, Business Writing & Technical Writing Immersion, October 2022
-* Udemy, Data Literacy for Business Professionals, October 2022
-* Adobe, Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer, June 2020
-* CloudBees, Certified Jenkins Engineer 2020, June 2020
-* CloudBees, Jenkins - Fundamentals, June 2020
-* CloudBees, Jenkins Administration - Fundamentals, June 2020
-* CloudBees, Jenkins Pipeline - Fundamentals, June 2020
-* CloudBees, Jenkins Pipeline - Intermediate, June 2020
-* Scrum Alliance, [Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster), August 2017
+* Microsoft
+  * AI Security Controls, September 2024
+  * AI Security Fundamentals, September 2024
+  * Introduction to AI Security Testing, September 2024
+  * Fundamentals of AI security, September 2024
+  * Understanding Microsoft Entra ID, September 2024
+* Adobe
+  * Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer, June 2020
+  * Adobe Experience Manager (AEM) 6.1 Certifications (multiple), 2017
+* Scaled Agile
+  * [Certified SAFe 5 Scrum Master](https://v5.scaledagileframework.com/scrum-master), January 2023
+  * Certified SAFe 5 Agilist, January 2023
+* Scrum Alliance
+  * Scrum Foundations, September 2019
+  * [Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster), August 2017
+* Udemy
+  * Next.js 14 & React - The Complete Guide, June 2024
+  * Business Writing & Technical Writing Immersion, October 2022
+  * Data Literacy for Business Professionals, October 2022
+  * JIRA Crash Course: Agile Project Management; Bonus Confluence, September 2022
+  * Build a Culture of Freedom and Responsibility by Patty McCord, August 2021
+  * Creating Team Vision, Mission, and Values, August 2021
+  * Effective Delegation for New Managers, August 2021
+  * Managing Change: Learn to Thrive Through Change, August 2021
+  * The Practical BPMN 2.0 Master Class, July 2021
+  * Mastering Collaboration: Work together for the best results, June 2021
+  * The Essential Guide for Effective Managers, June 2021
+  * Career Navigator: A Manager's Guide to Career Development, April 2021
+  * Getting Started With SharePoint Online, March 2021
+* CloudBees
+  * Certified Jenkins Engineer 2020, June 2020
 
 ### Professional / Community Involvement
 
-* Perficient, Bright Paths Program, 2021 thru 2022
-* [Wheatland Music Organization](https://www.wheatlandmusic.org/), Festival Volunteer, 20+ years
-* [The Parade Company](https://theparade.org/), Americas Thanksgiving Day Parade (Detroit), 10+ years
-* [Detroit Grand Prix Association](https://detroitgp.com/volunteer/), Track Services Volunteer, 7+ years
+* Perficient
+  * Bright Paths Program, 2021-2022
+  * Detroit Foundry Team, 2021
+* [Wheatland Music Organization](https://www.wheatlandmusic.org/)
+  * Festival Volunteer, 20+ years
+* [The Parade Company](https://theparade.org/)
+  * Americas Thanksgiving Day Parade (Detroit), 10+ years
+  * Super Bowl XL Volunteer, February 2006
+* [Detroit Grand Prix Association](https://detroitgp.com/volunteer/)
+  * Track Services Volunteer, 7+ years
+* Ford Motor Company
+  * Digital Worker Expert, November 2017
+* I-Speak Personality Assessment
+  * Favored conditions - Primary=Sensor, Backup=Intuitor
+  * Stress conditions - Primary=(equal)Sensor and Thinker, Backup=(equal) Intuitor and Feeler
 
 ### Experience
 
@@ -88,141 +130,138 @@ As a development operations lead, I have expertise in various areas, including S
 
 ------
 
-<!-- [DTE Energy](https://www.dteenergy.com/)  -->
+###### Perficient Client - Major Manufacturer : *Business Analyst* : __Oct-2024-Dec-2024__
+
+Generative artificial intelligence impact and usage analysis on authoring process regarding staged release of engineering data. 
+
+**Responsibilities**:
+* Business roles - Business Analyst
+* Technology roles - Google Cloud Platform, AngularJS, Python, AI investigative
+* Workflow tools - Miro Board, JIRA
+
+**Business/Technology Value**:
+* Identified opportunities for automation using internally developed AI LLM
+* Provided insights into Microsoft Copilot for Development vs Microsoft Copilot for Office365 data usage differences
+
+###### Perficient Client - Major Utility : *Technical Architect* : __Apr-2024-Aug-2024__
+
+Security analysis and configuration porting assessments to enable continued use of legacy reports integrated into multiple enterprise systems.
+
+**Responsibilities**:
+* Business roles - Agile Development Team member
+* Technology roles - Next.js/NodeJS v20 application framework integration
+* Workflow tools - Azure DevOps
+
+**Business/Technology Value**:
+* Implemented Next-Auth Single-Sign On via Next-Auth/AuthJS5
+* Utilized the latest version of NodeJS and AuthJS for browser security
+* Employed ReactJS Server-Side-Rendering/Client-Side-Rendering to limit data access
+* Identified upcoming architecture integration points
+
+###### Perficient Client - Major Finance : *Release Engineer* : __Oct-2023-Dec-2023__
+
+Gitlab on-premises solution integrated into Adobe Cloud runtime.
+
+**Responsibilities**:
+* Business roles – Agile Development Team member
+* Technology roles – Gitlab Integration, GitHub Integration, Adobe Cloud Integration
+* Workflow tools – Azure DevOps, Insomnia Test Tool
+
+**Business/Technology Value**:
+* Utilized the latest version of Adobe Cloud
+* Employed Gnu Privacy Guard code-signing
+* Verified and validated security related to code availability
+
 ###### Perficient Client - Major Utility : *Release Engineer* : __Apr-2023-Sept-2023__
 
-Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and CosmosDB.
+Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and Cosmos DB.
 
-Responsibilities
-
+**Responsibilities**:
 * Business roles – Scrum Master, Business Analyst
 * Technology roles – Infrastructure Lead, Release Engineer, Site Reliability Engineer
 * Workflow tools – Azure DevOps, SharePoint, Office365
 
-Business/Technology Value
-
-* Utilize latest version of ArcGIS Enterprise
-* Utilize Azure Cloud hosting
-* Internet of Things (IOT) Geographical analysis of device health and troubleshootin
+**Business/Technology Value**:
+* Utilized the latest version of ArcGIS Enterprise
+* Leveraged Azure Cloud hosting
+* Conducted Internet of Things (IoT) geographical analysis of device health and troubleshooting
 
 ------
 
 ###### Perficient Client - Major Healthcare : *Business Analyst* : __Oct-2022-Mar-2023__
 
-Business analyst assisting big data analytics modelling and data movement between multiple vendor data stores.
+Business analyst assisting big data analytics modeling and data movement between multiple vendor data stores.
 
-Responsibilities
-
+**Responsibilities**:
 * Technology roles – Visio, MS-SQL, RedShift, Postgres, Databricks interface management
 * Workflow tools – SharePoint linked JIRA requirements and card creation
 
-Business/Technology Value 
-
-Assist client and team to facilitate and define gathering requirements which influence:
-   * Infrastructure cost savings through big data hosting platform shift
-   * Long term architectural data governance alignment considered during shift
-   * Compliance to business-controlled access utilization while reconciling validated data
-   * Improved access to managed operational cost and performance growth on updated platform
-
-------
-
-###### Perficient Client - Major Finance : *DevOps Engineer* : __Jan-2022-May-2022__
-
-Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.
-
-Responsibilities
-
-* Technology roles – Azure DevOps Pipeline Developer
-* Azure Portal – Azure Resource Management hardware provisioning
-
-Business/Technology Value 
-
-* Subscription deployment framework to in-house framework
-* Gen1 to Gen2 Azure Resource Virtual Machine update
+**Business/Technology Value**:
+* Facilitated and defined requirements gathering
+* Achieved infrastructure cost savings through big data hosting platform shift
+* Ensured long-term architectural data governance alignment
+* Maintained compliance with business-controlled access utilization while reconciling validated data
+* Improved access to managed operational cost and performance growth on the updated platform
 
 ------
-  
+
 ###### Perficient Client - Perficient : *BrightPaths 2 Technical Trainer* : __Jan-2021-Dec-2021__
 
 [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
 
-Colleague on-boarding to multiple secured development environments including TFS/AzureDevOps, Confluence, and SharePoint 2020.  Agile backlog and ceremonies administered to engage new team members building user-interfaces using Angular, React, and Spring Boot software technologies.  Local development technology setup and upgrade assistance and documentation development.  Docker, docker-registry, Jenkins and Azure DevOps CI/CD implementation assistance and troubleshooting. 
- 
-Responsibilities
+Colleague onboarding to multiple secured development environments including TFS/Azure DevOps, Confluence, and SharePoint 2020. Agile backlog and ceremonies administered to engage new team members building user interfaces using Angular, React, and Spring Boot software technologies. Local development technology setup and upgrade assistance and documentation development. Docker, docker-registry, Jenkins, and Azure DevOps CI/CD implementation assistance and troubleshooting.
 
-* New consultant resume refinement assistance 
-* Ubuntu Linux administration, Windows Subsystem Linux (WSL) configuration and usage 
-* AEM, Spring Boot security and deployment support, development issue triage 
-* Visual Studio Code React Development enablement, Spring Boot development support 
-* Azure DevOps board management 
- 
-Business/Technology Value 
+**Responsibilities**:
+* New consultant resume refinement assistance
+* Ubuntu Linux administration, Windows Subsystem Linux (WSL) configuration and usage
+* AEM, Spring Boot security and deployment support, development issue triage
+* Visual Studio Code React development enablement, Spring Boot development support
+* Azure DevOps board management
 
-* Information and access management for new colleagues 
-* Usage improvement of multiple collaboration tools 
-
-------
-
-###### Perficient Client - Major Healthcare : *DevOps Engineer* : __Jul-2021-Sept-2021__
-
-Develop prototypes and proofs to support technology migration and shift in-progress at client site.
-
-Responsibilities
-
-* Technology roles – Azure Data Pipeline analysis
-* Apache Spark vs Azure Procfwk tooling analysis
-
-Business/Technology Value 
-
-* Framework considerations to common data loader needs
+**Business/Technology Value**:
+* Managed information and access for new colleagues
+* Improved usage of multiple collaboration tools
 
 ------
 
 ###### Perficient Client - Perficient : *BrightPaths 1 Technical Trainer* : __Apr-2020-Jan-2021__
 
+[Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
+
+Technical interviewing, coaching, and team building to enable recent career-changing technical bootcamp graduates. Assisted, delegated, and troubleshooted on-boarding to multiple DevOps delivery systems incorporating various Java, JavaScript, and Jenkins with Azure DevOps tooling utilization and exposures. Operated as initial scrum master and promoted role growth and attraction for team members to various specialties in the full-stack architecture paradigm.
+
+**Responsibilities**:
+* Technology roles – Azure Project Admin, Docker deployment, Spring Boot, ReactJS, AngularJS, Linux Admin
+* Scrum Master, Technology coach, Release Train Engineer
+* Team reporting, resource management, product owner/stakeholder negotiation
+* Office365, Atlassian, VPN/Firewall, Azure Teams Access management
+* Projects infrastructure maintenance
+
+**Business/Technology Value**:
+* Facilitated colleague growth and improvement
+* Reinforced and evolved process and technology
+* Invested in STEM culture community
+* Enhanced marketing and brand exposure
+* Promoted strategic growth through people and technology investment
+
 ------
  
 ###### Perficient Client - Major Manufacturing : *AEM DevOps Engineer* : __Oct-2020-Jan-2021__
 
-Analyzed and integrated multiple site configurations to advise promoting development operations release train transition and management to DevOps right and left shift deployment strategies.  OpenShift 3 and OpenShift 4 Apache on-premises and cloud-based deployment migrations from IBM HTTP Server cluster configuration.  Multiple configuration and firewall negotiation troubleshooting. 
- 
-Responsibilities
+Analyzed and integrated multiple site configurations to advise promoting development operations release train transition and management to DevOps right and left shift deployment strategies. OpenShift 3 and OpenShift 4 Apache on-premises and cloud-based deployment migrations from IBM HTTP Server cluster configuration. Multiple configuration and firewall negotiation troubleshooting.
 
-* Multiple technology roles – AEM 6.5, Linux Admin, OpenShift, HTTP Server 
-* Apache on AWS - Site and Configuration Management 
-* Akamai CDN site properties 
-* Infrastructure feature tooling and migration delivery 
- 
-Business/Technology Value 
+**Responsibilities**:
+* Multiple technology roles – AEM 6.5, Linux Admin, OpenShift, HTTP Server
+* Apache on AWS - Site and Configuration Management
+* Akamai CDN site properties
+* Infrastructure feature tooling and migration delivery
 
-* Improved site configuration deployment processes 
-* Security hardening and mitigation methods or approaches 
-* Product information management catalogue integration performance improvements 
-* Smooth transition between IBM HTTP and Apache version upgrade 
-* Facilitate DevOps adoption and integration discussions with client architects 
-
-------
-
-###### Perficient Client - Major Manufacturing : *DevOps Agile Coach* : __Apr-2016-Jan-2020__
-
-Agile transformation impacting multiple teams utilizing Rally, Office tools, and requirements management software. Crafting agile Product conversions by detailing Continuous Integration (CI), Continuous Testing (CT), and Continuous Deployment (CD) implementing Jenkins with containers.  Influencing backlog and product setups in social platform integrations and multiple technology adaptions. 
- 
-Responsibilities
-
-* Multiple technology roles – AEM, Jenkins, Nexus, Cloud Foundry 
-* Jenkins’s setup, securing and job administration 
-* Deliver new technology tools training 
-* Agile Rally backlog usage and coaching 
-* Infrastructure delivery technologist new tool usage and setup 
- 
-Business/Technology Value 
-
-* Achieved planned cost reduction and technology currency via effective on-boarding new technologies 
-* DevSecOps adoption 
-* Improved risk and planning management 
-* Results-driven 
-* Timely execution of project deliverables   
-* Exceeds business expectations per initial program requirements 
+**Business/Technology Value**:
+* Improved site configuration deployment processes
+* Enhanced security hardening and mitigation methods
+* Improved product information management catalogue integration performance
+* Ensured smooth transition between IBM HTTP and Apache version upgrade
+* Facilitated DevOps adoption and integration discussions with client architects
 
 ------
 
