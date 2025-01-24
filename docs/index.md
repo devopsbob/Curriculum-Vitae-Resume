@@ -29,32 +29,44 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 ### Solutions
 
-- Big Data ETL/Cloud Integrations Requirements and Modelling
-- Agile Backlog Management: AzureDevOps, CA-Rally, JIRA
+- Next.js/ReactJS Site Securing and Deployment
+- Adobe Experience Manager, Adobe Cloud Environment
+- Agile Backlog Management: Azure DevOps, CA-Rally, JIRA
 - DevOps Tools Artisan, Secure Configuration Integrations
+
+### Industries
+
+ * Healthcare, Insurance and Finance
+ * Manufacturing Marketing and Engineering
+ * Utilities, Aerospace, and High-tech
 
 ### Technical Skills
 
+* Cloud – Azure, AWS, GCP, GitLab, Adobe Cloud Environment
 * Data: S3, RedShift, Databricks, Excel, Scala
-* Integration: Azure, Jenkins, OpenShift, Dynatrace, Maven, Gradle
+* Integration: Azure DevOps, Jenkins, OpenShift, Dynatrace, Maven, Gradle, Nodejs
+* Testing: SonarQube, Postman, Cypress, Insomnia, Jest, Playwright
 * Collaboration: Visio, MS Teams/O365, WebEx Teams, BlueScape, BluePrint/Storyteller
-* Configuration as Code: K8s, YAML, Docker/Podman, Container Image Registry
-* Secure Platforms: SSL Administration, OAuth2, SSO, HashiCorp Vault, GitHub, MS-EntraID 
+* Configuration as Code: Bicep, Terraform, OpenTofu, Docker/Podman, Container Image Registry
+* Secure Platforms: Next-Auth, SSL Administration, OAuth2, SSO, Hashi Corp Vault, GitHub, MS-Entra ID 
 
 ### Key Engagements
 
-| Industry            | Role                          | Activities                                                                                                                                                                                                  |
-| ------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Major Utility       | Release Engineer              | Develop Azure pipelines, supporting Wiki, ReactJS troubleshooting, deployment hardening, Scrum Master and Business analyst.                                                                                 |
-| Major Healthcare    | Business Analyst              | Big data extract, transform, load, audit, modeling aid and functional reporting requirements gathering within agile team.                                                                                   |
-| Major Finance       | DevOps Engineer               | Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.                                                                                                               |
-| Major Technology    | Trainer / Technical Architect | Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates.                                                                                           |
-| Major Healthcare    | DevOps Engineer               | Develop prototypes and proofs to support technology migration and shift in-progress at client site.                                                                                                         |
-| Major Manufacturing | AEM DevOps Engineer           | Configuration as code site management across multiple properties and technology implementations.                                                                                                            |
-| Major Automotive    | DevOps Agile Coach            | Promoted full-stack cloud-foundry technologies and tools to affect Development Operations (DevSecOps) methodologies implementation with complex partner and third-party integrations.                       |
-| Major Banking       | Installation Architect        | Designed, install, and configured overall system architecture.  Coordinated the work across multiple integration teams.                                                                                     |
-| Major Insurance     | Technical Architect           | Architect and technical lead for integration project.  Managed secure configuration integration and client support team training on platform to transition developed BPM solution.                          |
-| Major Automotive    | Integration Architect         | Installed and configured a multi-server, clustered WebSphere Server environment.  Documented run-book architecture and trained client administrators.  Provided advanced migration troubleshooting support. |
+| Industry           | Role                          | Activities                                                                                                                                                                                                  |
+| ------------------ | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Major Automotive   | Busines Analyst               | Generative artificial intelligence impact and usage analysis on authoring process regarding staged release of engineering data.                                                                             |
+| Major Utility      | Technical Architect           | NextJS application framework adaption to legacy reports integrated to IBM Maximo asset management                                                                                                           |
+| Major Finance      | Release Engineer              | Adobe Cloud delivery code signing and functional delivery validation between on-premise and Adobe IO runtime environments                                                                                   |
+| Major Utility      | Release Engineer              | Develop Azure pipelines, supporting Wiki, ReactJS troubleshooting, deployment hardening, Scrum Master and Business analyst.                                                                                 |
+| Major Healthcare   | Business Analyst              | Big data extract, transform, load, audit, modeling aid and functional reporting requirements gathering within agile team.                                                                                   |
+| Major Finance      | DevOps Engineer               | Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.                                                                                                               |
+| Major Technology   | Trainer / Technical Architect | Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates.                                                                                           |
+| Major Healthcare   | DevOps Engineer               | Develop prototypes and proofs to support technology migration and shift in-progress at client site.                                                                                                         |
+| Major Manufacturer | AEM DevOps Engineer           | Configuration as code site management across multiple properties and technology implementations.                                                                                                            |
+| Major Automotive   | DevOps Agile Coach            | Promoted full-stack cloud-foundry technologies and tools to affect Development Operations (DevSecOps) methodologies implementation with complex partner and third-party integrations.                       |
+| Major Banking      | Installation Architect        | Designed, install, and configured overall system architecture.  Coordinated the work across multiple integration teams.                                                                                     |
+| Major Insurance    | Technical Architect           | Architect and technical lead for integration project.  Managed secure configuration integration and client support team training on platform to transition developed BPM solution.                          |
+| Major Automotive   | Integration Architect         | Installed and configured a multi-server, clustered WebSphere Server environment.  Documented run-book architecture and trained client administrators.  Provided advanced migration troubleshooting support. |
 
 ### Education
 
@@ -65,6 +77,7 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 ### Professional Training/Certifications
 
+* Next.js 14 Certification
 * Scaled Agile
   * [Certified SAFe 5 Scrum Master](https://v5.scaledagileframework.com/scrum-master), January 2023
   * Certified SAFe 5 Agilist, January 2023
@@ -151,10 +164,55 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 ------
 
+<!-- [Ford Motor Company](https://www.ford.com) -->
+###### Perficient Client - Major Manufacturer : *Business Analyst* : __Oct-2024-Dec-2024__
+
+Generative artificial intelligence impact and usage analysis on authoring process regarding staged release of engineering data. 
+
+**Responsibilities**:
+* Business roles - Business Analyst
+* Technology roles - Google Cloud Platform, AngularJS, Python, AI investigative
+* Workflow tools - Miro Board, JIRA
+
+**Business/Technology Value**:
+* Identified opportunities for automation using internally developed AI LLM
+* Provided insights into Microsoft Copilot for Development vs Microsoft Copilot for Office365 data usage differences
+
+<!-- [DTE Energy](https://www.dteenergy.com/) -->
+###### Perficient Client - Major Utility : *Technical Architect* : __Apr-2024-Aug-2024__
+
+Security analysis and configuration porting assessments to enable continued use of legacy reports integrated into multiple enterprise systems.
+
+**Responsibilities**:
+* Business roles - Agile Development Team member
+* Technology roles - Next.js/NodeJS v20 application framework integration
+* Workflow tools - Azure DevOps
+
+**Business/Technology Value**:
+* Implemented Next-Auth Single-Sign On via Next-Auth/AuthJS5
+* Utilized the latest version of NodeJS and AuthJS for browser security
+* Employed ReactJS Server-Side-Rendering/Client-Side-Rendering to limit data access
+* Identified upcoming architecture integration points
+
+<!-- [TRowePrice](https://www.troweprice.com/) -->
+###### Perficient Client - Major Finance : *Release Engineer* : __Oct-2023-Dec-2023__
+
+Gitlab on-premises solution integrated into Adobe Cloud runtime.
+
+**Responsibilities**:
+* Business roles – Agile Development Team member
+* Technology roles – Gitlab Integration, GitHub Integration, Adobe Cloud Integration
+* Workflow tools – Azure DevOps, Insomnia Test Tool
+
+**Business/Technology Value**:
+* Utilized the latest version of Adobe Cloud
+* Employed Gnu Privacy Guard code-signing
+* Verified and validated security related to code availability
+
 <!-- [DTE Energy](https://www.dteenergy.com/)  -->
 ###### Perficient Client - Major Utility : *Release Engineer* : __Apr-2023-Sept-2023__
 
-Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and CosmosDB.
+Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and Cosmos DB.
 
 **Responsibilities**:
 * Business roles – Scrum Master, Business Analyst
@@ -205,7 +263,7 @@ Converted Cloud66 deployment mechanism for Ruby on Rails application to Azure De
 
 [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
 
-Colleague onboarding to multiple secured development environments including TFS/AzureDevOps, Confluence, and SharePoint 2020. Agile backlog and ceremonies administered to engage new team members building user interfaces using Angular, React, and Spring Boot software technologies. Local development technology setup and upgrade assistance and documentation development. Docker, docker-registry, Jenkins, and Azure DevOps CI/CD implementation assistance and troubleshooting.
+Colleague onboarding to multiple secured development environments including TFS/Azure DevOps, Confluence, and SharePoint 2020. Agile backlog and ceremonies administered to engage new team members building user interfaces using Angular, React, and Spring Boot software technologies. Local development technology setup and upgrade assistance and documentation development. Docker, docker-registry, Jenkins, and Azure DevOps CI/CD implementation assistance and troubleshooting.
 
 **Responsibilities**:
 * New consultant resume refinement assistance
@@ -238,7 +296,7 @@ Developed prototypes and proofs to support technology migration and shift in-pro
 
 [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
 
-Technical interviewing, coaching, and team building to enable recent career-changing technical bootcamp graduates. Assisted, delegated, and troubleshooted on-boarding to multiple DevOps delivery systems incorporating various Java, JavaScript, and Jenkins/AzureDevOps tooling utilization and exposures. Operated as initial scrum master and promoted role growth and attraction for team members to various specialties in the full-stack architecture paradigm.
+Technical interviewing, coaching, and team building to enable recent career-changing technical bootcamp graduates. Assisted, delegated, and troubleshooted on-boarding to multiple DevOps delivery systems incorporating various Java, JavaScript, and Jenkins with Azure DevOps tooling utilization and exposures. Operated as initial scrum master and promoted role growth and attraction for team members to various specialties in the full-stack architecture paradigm.
 
 **Responsibilities**:
 * Technology roles – Azure Project Admin, Docker deployment, Spring Boot, ReactJS, AngularJS, Linux Admin
