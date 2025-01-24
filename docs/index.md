@@ -313,7 +313,6 @@ Technical interviewing, coaching, and team building to enable recent career-chan
 * Promoted strategic growth through people and technology investment
 
 ------
-
  
 <!-- [Caterpillar](https://www.caterpillar.com/) -->
 ###### Perficient Client - Major Manufacturing : *AEM DevOps Engineer* : __Oct-2020-Jan-2021__
