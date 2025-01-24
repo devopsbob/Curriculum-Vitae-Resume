@@ -77,11 +77,23 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 ### Professional Training/Certifications
 
-* Next.js 14 Certification
+* Microsoft
+  * AI Security Controls, September 2024
+  * AI Security Fundamentals, September 2024
+  * Introduction to AI Security Testing, September 2024
+  * Fundamentals of AI security, September 2024
+  * Understanding Microsoft Entra ID, September 2024
+* Adobe
+  * Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer, June 2020
+  * Adobe Experience Manager (AEM) 6.1 Certifications (multiple), 2017
 * Scaled Agile
   * [Certified SAFe 5 Scrum Master](https://v5.scaledagileframework.com/scrum-master), January 2023
   * Certified SAFe 5 Agilist, January 2023
+* Scrum Alliance
+  * Scrum Foundations, September 2019
+  * [Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster), August 2017
 * Udemy
+  * Next.js 14 & React - The Complete Guide, June 2024
   * Business Writing & Technical Writing Immersion, October 2022
   * Data Literacy for Business Professionals, October 2022
   * JIRA Crash Course: Agile Project Management; Bonus Confluence, September 2022
@@ -94,18 +106,12 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
   * The Essential Guide for Effective Managers, June 2021
   * Career Navigator: A Manager's Guide to Career Development, April 2021
   * Getting Started With SharePoint Online, March 2021
-* Adobe
-  * Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer, June 2020
-  * Adobe Experience Manager (AEM) 6.1 Certifications (multiple), 2017
 * CloudBees
   * Certified Jenkins Engineer 2020, June 2020
   * Jenkins - Fundamentals, June 2020
   * Jenkins Administration - Fundamentals, June 2020
   * Jenkins Pipeline - Fundamentals, June 2020
   * Jenkins Pipeline - Intermediate, June 2020
-* Scrum Alliance
-  * Scrum Foundations, September 2019
-  * [Certified Scrum Master](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster), August 2017
 * IBM
   * IBM Certified Solution Designer - Content Navigator V2.0.2, July 2014
 * Heiman-Miller
@@ -141,18 +147,16 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 * Perficient
   * Bright Paths Program, 2021-2022
   * Detroit Foundry Team, 2021
-* Ford Motor Company
-  * Digital Worker Expert, November 2017
-  * CORL/CORL-NG, 2010
 * [Wheatland Music Organization](https://www.wheatlandmusic.org/)
   * Festival Volunteer, 20+ years
 * [The Parade Company](https://theparade.org/)
   * Americas Thanksgiving Day Parade (Detroit), 10+ years
+  * Super Bowl XL Volunteer, February 2006
 * [Detroit Grand Prix Association](https://detroitgp.com/volunteer/)
   * Track Services Volunteer, 7+ years
-* The Parade Company
-  * Super Bowl XL Volunteer, February 2006
 * Ford Motor Company
+  * Digital Worker Expert, November 2017
+  * CORL/CORL-NG, 2010
   * Global Study Process Allocation System (GSPAS 2.1 Release), 1999
 * I-Speak Personality Assessment
   * Favored conditions - Primary=Sensor, Backup=Intuitor
