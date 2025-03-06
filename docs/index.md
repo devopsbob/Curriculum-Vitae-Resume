@@ -164,7 +164,7 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 
 ### Experience
 
-#### [Perficient](https://www.perficient.com/) : *Technical Architect* : __March 2016-Present__
+#### [Perficient](https://www.perficient.com/) : *Technical Architect* : __March 2016-February 2025__
 
 ------
 
