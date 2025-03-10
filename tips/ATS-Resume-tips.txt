@@ -1,0 +1,24 @@
+What are common mistakes to avoid in ATS resumes?
+Great question! Here are some common mistakes to avoid in ATS resumes to ensure your application gets through the system smoothly:
+
+Overly Complex Formatting: Fancy designs, tables, and graphics might look great, but they can confuse ATS. Stick to a simple, clean layout with standard fonts like Arial or Times New Roman.
+
+Unoptimized File Formats: Always save your resume as a .docx or .pdf file, as these are the formats most ATS can read. Avoid using .jpg, .png, or .odt files.
+
+Incorrect Keywords: Tailor your resume to include keywords from the job description. ATS scans for specific terms related to skills and experiences. Be sure to use the exact language used in the job posting.
+
+Incomplete Contact Information: Make sure your contact details are up-to-date and accurate. Missing or incorrect information can lead to your resume being overlooked.
+
+Spelling and Grammar Errors: ATS can flag resumes with typos and errors. Proofread your resume carefully and consider using tools like Grammarly to catch mistakes.
+
+Lack of Quantifiable Achievements: ATS and hiring managers both appreciate numbers. Quantify your achievements with metrics, percentages, and numbers to show the impact of your work.
+
+Using Headers and Footers for Important Information: Some ATS might not read text in headers or footers. Avoid putting essential information like contact details or section headings in these areas.
+
+Overly Generalized Information: Be specific about your skills, experiences, and accomplishments. General statements can make it hard for ATS to determine your suitability for the role.
+
+Uncommon Abbreviations and Acronyms: While some abbreviations are industry-standard, others might not be recognized by ATS. It's safer to spell out terms the first time you use them.
+
+Excessive Length: Aim for a resume that's one to two pages long. ATS and hiring managers prefer concise, relevant information.
+
+By avoiding these common pitfalls, you'll increase your chances of passing through ATS and getting noticed by hiring managers. Good luck with your job search!

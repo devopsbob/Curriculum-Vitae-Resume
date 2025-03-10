@@ -5,6 +5,8 @@ https://devopsbob.github.io/Curriculum-Vitae-Resume
 
 A curriculum vitae (CV) is an academic diary that lists all of your education, experience, publications, certificates, awards, and publications. A resume is a single-page summary of your work experience and skills that are relevant to the job that you’re applying for.
 
+A resume should be created to target a specific job application. The format of the resume needs to conform to, or address limitations and expectations of common Application Tracking Systems (ATS) used by industry recruiters. This enables the profile created by the resume to be more fully available to matching algorithmns.
+
 ## Setup
 - Github public repository created named 'Curriculum-Vitae-Resume', this is used when printing to PDF
 - Create branch named 'gh-pages'
