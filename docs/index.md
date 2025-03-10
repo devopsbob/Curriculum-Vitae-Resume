@@ -1,81 +1,67 @@
 # Robert (Bob) Kranson
-## [Technical Architect](RobertKranson_TechnicalArchitect_Resume.md), [DevOps Lead](RobertKranson_DevOpsLead_Resume.md)
-## Sterling Heights (Metro Detroit), Michigan, United States
-
-> [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson) | [Robert Kranson Technical Architect Resume](RobertKranson_TechnicalArchitect_Resume.pdf) | [Robert Kranson DevOps Lead Resume](RobertKranson_DevOpsLead_Resume.pdf)  
-> [bobkranson@gmail.com](mailto:bobkranson@gmail.com)  
-
-------
-
-### Profile
-
-As a technical architect, I have expertise in various areas, including SAFe Agile methodology, DevSecOps tools, NodeJS/JavaScript, and Java Enterprise Edition. Additionally, I have advanced experience in designing platforms for hardware and software, with a focus on multi-cloud, multi-tiered, distributed, or containerized implementations. I'm also well-versed in release pipeline and delivery technologies, utilizing Azure DevOps or Jenkins and GitHub source management.
-
-**Key Skills and Technologies:**
-- **Content Management**: Adobe Experience Manager, IBM Content Navigator, IBM Content Platform Engine
-- **JavaScript Technologies**: ECMAScript (ES6, ES8), TypeScript, Node.js, NPM, Next.js
-- **Java Technologies**: Spring Boot, Java Persistence API (JPA), Java Enterprise Edition (Java EE)
-- **Deployments**: Cloud Image Containers and Registries, Nexus, JFrog, Docker, Java, Node.js, JBoss, WebSphere Network
-- **Database Technologies**: Oracle, MySQL, MS-SQL, SQLite
-- **Markup Languages**: XML, XSLT, HTML, Markdown
+**Sterling Heights, Michigan, 48310**<br>
+**[mailto:devopsbob@outlook.com](mailto:devopsbob@outlook.com)**<br>
+**[LinkedIn - Bob Kranson - https://www.linkedin.com/in/bobkranson](https://www.linkedin.com/in/bobkranson)**<br>
+**[Porfolio - Bob Kranson - https://devopsbob.github.io/Curriculum-Vitae-Resume](https://devopsbob.github.io/Curriculum-Vitae-Resume)**<br>
 
 ------
 
-### Roles
+## Professional Summary
 
-- Business Analyst
-- DevSecOps Engineer / Technical Lead
-- Technology Coach / Agile Scrum Master
+As a technical architect, I have expertise in multiple technology areas and exposure to multiple industries. My combined social, academic, and professional experience provides you with someone adaptable to multiple project management methodologies and transparent delivery of advanced technical solutions. I have track-proven experience in designing scalable platforms for hardware and software utilizing multi-hosted, multi-tiered, distributed, or containerized implementations. I am also well-versed in release pipeline and delivery technologies using Azure DevOps or Jenkins and GitHub source management.
 
-### Solutions
+## Education
 
-- Next.js/ReactJS Site Securing and Deployment
-- Adobe Experience Manager, Adobe Cloud Environment
-- Agile Backlog Management: Azure DevOps, CA-Rally, JIRA
-- DevOps Tools Artisan, Secure Configuration Integrations
+- **Bachelor of Science** in Integrated Leadership, Central Michigan University, 2014
+- **Associate of Arts** in General Studies, Macomb Community College, 1995
+- **Certification** in Business Data Processing, Warren Career Preparation Center, 1990
+- **Diploma** from Warren High School, 1990
 
-### Industries
-
- * Healthcare, Insurance and Finance
- * Manufacturing Marketing and Engineering
- * Utilities, Aerospace, and High-tech
+## Skills
 
 ### Technical Skills
 
-* Cloud – Azure, AWS, GCP, GitLab, Adobe Cloud Environment
-* Data: S3, RedShift, Databricks, Excel, Scala
-* Integration: Azure DevOps, Jenkins, OpenShift, Dynatrace, Maven, Gradle, Nodejs
-* Testing: SonarQube, Postman, Cypress, Insomnia, Jest, Playwright
-* Collaboration: Visio, MS Teams/O365, WebEx Teams, BlueScape, BluePrint/Storyteller
-* Configuration as Code: Bicep, Terraform, OpenTofu, Docker/Podman, Container Image Registry
-* Secure Platforms: Next-Auth, SSL Administration, OAuth2, SSO, Hashi Corp Vault, GitHub, MS-Entra ID 
+- **Content Management**: Adobe Experience Manager, IBM Content Navigator, IBM Content Platform Engine
+- **JavaScript Technologies**: ECMAScript (ES6, ES8), ReactJS, TypeScript, Node.js, NPM, Next.js
+- **Java Technologies**: Spring Boot, Java Persistence API (JPA), Java Enterprise Edition (Java EE)
+- **Repository Management**: Git, GitHub, Nexus, JFrog, NPM
+- **Container Management**: Docker/PodMan, OpenShift, JBoss, WebSphere Network
+- **Database Technologies**: Oracle, MySQL, MS-SQL, SQLite
+- **Markup Languages**: XML, XSLT, HTML, Markdown
+- **Agile Project Management**: Atlassian JIRA, Rally, Azure DevOps, GitLab
+- **DevOps Tools Artisan**: Jenkins, Azure Pipelines, GitHub Actions, Secure Configuration Integrations
+- **Cloud**: Azure, AWS, GCP, GitLab, Adobe Cloud Environment
+- **Tooling**: Debian Linux, Alpine Linux, Core Linux, Bash Shell, Dynatrace, Maven, Gradle
+- **Testing**: SonarQube, Postman, Cypress, Insomnia, Mocha, Jest, Playwright
+- **Collaboration**: Visio, MS Teams/O365, WebEx Teams, Miro, BlueScape, BluePrint/Storyteller
+- **Configuration as Code**: Bicep, Terraform, OpenTofu, Docker/Podman, Container Image Registry
+- **Secure Platforms**: Next-Auth, SSL Administration, OAuth2, SSO, Hashi Corp Vault, GitHub, MS-Entra ID 
 
-### Key Engagements
+### Soft Skills
 
-| Industry           | Role                          | Activities                                                                                                                                                                                                  |
-| ------------------ | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Major Automotive   | Busines Analyst               | Generative artificial intelligence impact and usage analysis on authoring process regarding staged release of engineering data.                                                                             |
-| Major Utility      | Technical Architect           | NextJS application framework adaption to legacy reports integrated to IBM Maximo asset management                                                                                                           |
-| Major Finance      | Release Engineer              | Adobe Cloud delivery code signing and functional delivery validation between on-premise and Adobe IO runtime environments                                                                                   |
-| Major Utility      | Release Engineer              | Develop Azure pipelines, supporting Wiki, ReactJS troubleshooting, deployment hardening, Scrum Master and Business analyst.                                                                                 |
-| Major Healthcare   | Business Analyst              | Big data extract, transform, load, audit, modeling aid and functional reporting requirements gathering within agile team.                                                                                   |
-| Major Finance      | DevOps Engineer               | Convert Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.                                                                                                               |
-| Major Technology   | Trainer / Technical Architect | Technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates.                                                                                           |
-| Major Healthcare   | DevOps Engineer               | Develop prototypes and proofs to support technology migration and shift in-progress at client site.                                                                                                         |
-| Major Manufacturer | AEM DevOps Engineer           | Configuration as code site management across multiple properties and technology implementations.                                                                                                            |
-| Major Automotive   | DevOps Agile Coach            | Promoted full-stack cloud-foundry technologies and tools to affect Development Operations (DevSecOps) methodologies implementation with complex partner and third-party integrations.                       |
-| Major Banking      | Installation Architect        | Designed, install, and configured overall system architecture.  Coordinated the work across multiple integration teams.                                                                                     |
-| Major Insurance    | Technical Architect           | Architect and technical lead for integration project.  Managed secure configuration integration and client support team training on platform to transition developed BPM solution.                          |
-| Major Automotive   | Integration Architect         | Installed and configured a multi-server, clustered WebSphere Server environment.  Documented run-book architecture and trained client administrators.  Provided advanced migration troubleshooting support. |
+- **Business Analyst**: Strong communicator able to organize, gather, create, or track requirements documents
+- **DevSecOps Engineer**: Secure Socket Layer (SSL/TLS) key creation and management, API and deployments secrets management
+- **Technical Lead**: New technology fast-learner, prototyping, big-picture mentor and leader, implementor
+- **Technology Coach**: Shift-left test driven development; enterprise technology enabler; train-the-trainer and job aids development
+- **Agile Scrum Master**: Servant leader enabling adaptive and progressive team growth through Agile principle and ceremonies reinforement
 
-### Education
+## Key Contributions
 
-* Bachelor of Science in Integrated Leadership, Central Michigan University, 2014
-* Associate of Arts in General Studies, Macomb Community College, 1995
-* Business Data Processing, Warren Career Preparation Center, 1990
-* Diploma, Warren High School, 1990
+- As a **Business Analyst** for a **major automotive** company I analyzed generative artificial intelligence impact and usage analysis on authoring process regarding staged release of engineering data.
+- As a **Technical Architect** for a **major utility** company I created NextJS application framework adaption to legacy reports integrated to IBM Maximo asset management.
+- As a **Release Engineer** for a **major finance** company I adapted Adobe Cloud delivery code signing and functional delivery validation between on-premise and Adobe IO runtime environments.
+- As a **Release Engineer** for a **major utility** company I developed Azure pipelines, supporting Wiki, performed ReactJS troubleshooting, deployment hardening, while aiding additional as Scrum Master and Business analyst.
+- As a **Business Analyst** for a **major healthcare** company I performed big data extractions, transform, load, and audit, while modeling technical aids and functional reporting requirements gathered within agile team.
+- As a **DevOps Engineer** for a **major finance** company I converted Cloud66 deployment mechanisms for Ruby on Rails application to Azure DevOps pipelines.
+- As a **Technology Coach** for a **major technology** company I performed technical interviewing, coaching and team building to enable recent career changing technical bootcamp graduates.
+- As a **DevOps Engineer** for a **major healthcare** company I develop prototypes and proofs to support technology migration and shift in-progress at client site of critical PII data assets.
+- As a **AEM DevOps Engineer** for a **major manfacturer** company I created configuration as code site management across multiple properties and technology implementations.
+- As a **DevOps Agile Coach** for a **major automotive** company I promoted full-stack cloud-foundry technologies and tools to affect Development Operations (DevSecOps) methodologies implementation with complex partner and third-party integrations.
+- As an **Installation Architect** for a **major banking** company I designed, installed, and configured overall system architecture with coordinated work across multiple integration teams.
+- As a **Technical Architect** for a **major insurance** company I managed secure configuration integration and client support team training on newly deployed platform to transition developed BPM solution.
+- As an **Integration Architect** for a **major automotive** company I installed and configured a multi-server, clustered WebSphere Server environment and documented run-book architecture to trained client administrators providing advanced migration troubleshooting support.
 
-### Professional Training/Certifications
+## Certifications
 
 * Microsoft
   * AI Security Controls, September 2024
@@ -142,7 +128,7 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
 * Warren Consolidated Schools
   * Teachers Assistant, Fuhrmann Junior High School; Sterling Heights, Michigan; 1985-1987
 
-### Professional / Community Involvement
+## Volunteer Experience and Community Involvement
 
 * Perficient
   * Bright Paths Program, 2021-2022
@@ -162,263 +148,308 @@ As a technical architect, I have expertise in various areas, including SAFe Agil
   * Favored conditions - Primary=Sensor, Backup=Intuitor
   * Stress conditions - Primary=(equal)Sensor and Thinker, Backup=(equal) Intuitor and Feeler
 
-### Experience
+## Work Experience
 
-#### [Perficient](https://www.perficient.com/) : *Technical Architect* : __March 2016-February 2025__
+**Technical Architect** : [Perficient](https://www.perficient.com/) : __March 2016-February 2025__
 
 ------
 
 <!-- [Ford Motor Company](https://www.ford.com) -->
-###### Perficient Client - Major Manufacturer : *Business Analyst* : __Oct-2024-Dec-2024__
+*Business Analyst* : Major Manufacturer : __Oct-2024-Dec-2024__
 
 Generative artificial intelligence impact and usage analysis on authoring process regarding staged release of engineering data. 
 
-**Responsibilities**:
-* Business roles - Business Analyst
-* Technology roles - Google Cloud Platform, AngularJS, Python, AI investigative
-* Workflow tools - Miro Board, JIRA
+Responsibilities:
 
-**Business/Technology Value**:
-* Identified opportunities for automation using internally developed AI LLM
-* Provided insights into Microsoft Copilot for Development vs Microsoft Copilot for Office365 data usage differences
+- Business roles - Business Analyst creating Miro diagrams, Word job aids, design and discovery documents
+- Technology roles - Google Cloud Platform, AngularJS, Python, AI investigative, internal platform security validations, Linux and Google Cloud Platform console session management
+- Workflow tools - Miro Board, JIRA
+
+Accomplishments:
+
+- Identified opportunities for automation using internally developed AI LLM
+- Provided insights into Microsoft Copilot for Development vs Microsoft Copilot for Office365 data usage differences
+
+------
 
 <!-- [DTE Energy](https://www.dteenergy.com/) -->
-###### Perficient Client - Major Utility : *Technical Architect* : __Apr-2024-Aug-2024__
+*Technical Architect* : Major Utility :  __Apr-2024-Aug-2024__
 
-Security analysis and configuration porting assessments to enable continued use of legacy reports integrated into multiple enterprise systems.
+Security analysis and configuration porting assessments and technology infrastructure secure application scaffolding to enable continued use of legacy reports integrated into multiple enterprise systems.
 
-**Responsibilities**:
-* Business roles - Agile Development Team member
-* Technology roles - Next.js/NodeJS v20 application framework integration
-* Workflow tools - Azure DevOps
+Responsibilities:
 
-**Business/Technology Value**:
-* Implemented Next-Auth Single-Sign On via Next-Auth/AuthJS5
-* Utilized the latest version of NodeJS and AuthJS for browser security
-* Employed ReactJS Server-Side-Rendering/Client-Side-Rendering to limit data access
-* Identified upcoming architecture integration points
+- Business roles - Agile Development Team member
+- Technology roles - Next.js/NodeJS v20/Microsoft Entra ID application framework integration
+- Workflow tools - Azure DevOps, SharePoint
+
+Accomplishments:
+
+- Implemented Next-Auth Single-Sign On via Next-Auth/AuthJS5 connected to tenant Microsoft Entra ID application
+- Utilized the latest version of NodeJS and AuthJS for browser security
+- Employed ReactJS Server-Side-Rendering/Client-Side-Rendering to limit data access
+- Identified upcoming architecture integration points
+
+------
 
 <!-- [TRowePrice](https://www.troweprice.com/) -->
-###### Perficient Client - Major Finance : *Release Engineer* : __Oct-2023-Dec-2023__
+*Release Engineer* : Major Finance :  __Oct-2023-Dec-2023__
 
-Gitlab on-premises solution integrated into Adobe Cloud runtime.
+Gitlab on-premises solution integrated into Adobe Cloud runtime. Compartmentalize git repository changes to create and verify GPG signed commits withholding history and mainaining content release control from internal onsite ITIL tools.
 
-**Responsibilities**:
-* Business roles – Agile Development Team member
-* Technology roles – Gitlab Integration, GitHub Integration, Adobe Cloud Integration
-* Workflow tools – Azure DevOps, Insomnia Test Tool
+Responsibilities:
 
-**Business/Technology Value**:
-* Utilized the latest version of Adobe Cloud
-* Employed Gnu Privacy Guard code-signing
-* Verified and validated security related to code availability
+- Business roles – Agile Development Team member
+- Technology roles – Gitlab Integration, GitHub Integration, Adobe Cloud Integration, Adobe IO API
+- Workflow tools – Azure DevOps, Insomnia Test Tool
+
+Accomplishments:
+
+- Utilized the latest version of Adobe Cloud
+- Employed Gnu Privacy Guard code-signing
+- Verified and validated security related to code availability
+
+------
 
 <!-- [DTE Energy](https://www.dteenergy.com/)  -->
-###### Perficient Client - Major Utility : *Release Engineer* : __Apr-2023-Sept-2023__
+*Release Engineer* : Major Utility :  __Apr-2023-Sept-2023__
 
 Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and Cosmos DB.
 
-**Responsibilities**:
-* Business roles – Scrum Master, Business Analyst
-* Technology roles – Infrastructure Lead, Release Engineer, Site Reliability Engineer
-* Workflow tools – Azure DevOps, SharePoint, Office365
+Responsibilities:
 
-**Business/Technology Value**:
-* Utilized the latest version of ArcGIS Enterprise
-* Leveraged Azure Cloud hosting
-* Conducted Internet of Things (IoT) geographical analysis of device health and troubleshooting
+- Business roles – Scrum Master, Business Analyst
+- Technology roles – Infrastructure Lead, Release Engineer, Site Reliability Engineer
+- Workflow tools – Azure DevOps, SharePoint, Office365
+
+Accomplishments:
+
+- Utilized the latest version of ArcGIS Enterprise
+- Leveraged Azure Cloud hosting
+- Conducted Internet of Things (IoT) geographical analysis of device health and troubleshooting
 
 ------
 
 <!-- [Blue Cross Blue Shield of Michigan](https://www.bcbsm.com/)  -->
-###### Perficient Client - Major Healthcare : *Business Analyst* : __Oct-2022-Mar-2023__
+*Business Analyst* : Major Healthcare :  __Oct-2022-Mar-2023__
 
 Business analyst assisting big data analytics modeling and data movement between multiple vendor data stores.
 
-**Responsibilities**:
-* Technology roles – Visio, MS-SQL, RedShift, Postgres, Databricks interface management
-* Workflow tools – SharePoint linked JIRA requirements and card creation
+Responsibilities:
 
-**Business/Technology Value**:
-* Facilitated and defined requirements gathering
-* Achieved infrastructure cost savings through big data hosting platform shift
-* Ensured long-term architectural data governance alignment
-* Maintained compliance with business-controlled access utilization while reconciling validated data
-* Improved access to managed operational cost and performance growth on the updated platform
+- Technology roles – Visio, MS-SQL, RedShift, Postgres, Databricks interface management
+- Workflow tools – SharePoint linked JIRA requirements and card creation
+
+Accomplishments:
+
+- Facilitated and defined requirements through iterative scheduled meetings
+- Achieved infrastructure cost savings through big data hosting platform shift effeciency improvements
+- Ensured long-term architectural data governance alignment via project data governance integrations and documentation
+- Improved compliance with business-controlled access and audit for PII data while reconciling data
+- Reduced managed operational cost thru designed scale and performance growth on the updated platform
 
 ------
 
 <!--  [Cass Bank](https://www.cassbank.com/)  [Gyve Application](https://gyve.com/)  -->
-###### Perficient Client - Major Finance : *DevOps Engineer* : __Jan-2022-May-2022__
+*DevOps Engineer* : Major Finance : __Jan-2022-May-2022__
 
-Converted Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines.
+Converted Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines by recreating controlled Ubuntu VMAgents and deployment hosts using Azure pipeline and bash scripting. 
 
-**Responsibilities**:
-* Technology roles – Azure DevOps Pipeline Developer
-* Azure Portal – Azure Resource Management hardware provisioning
+Responsibilities:
 
-**Business/Technology Value**:
-* Transitioned subscription deployment framework to in-house framework
-* Upgraded from Gen1 to Gen2 Azure Resource Virtual Machine
+- Technology roles – Azure DevOps Pipeline Developer
+- Azure Portal – Azure Resource Management hardware provisioning
+
+Accomplishments:
+
+- Transitioned subscription deployment framework to Azure-hosted framework
+- Upgraded from Gen1 to Gen2 Azure Resource Virtual Machine
 
 ------
 
-###### Perficient Client - Perficient : *BrightPaths 2 Technical Trainer* : __Jan-2021-Dec-2021__
-
-[Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
+*BrightPaths 2 Technical Trainer* : Perficient Inc - [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program) : __Jan-2021-Dec-2021__
 
 Colleague onboarding to multiple secured development environments including TFS/Azure DevOps, Confluence, and SharePoint 2020. Agile backlog and ceremonies administered to engage new team members building user interfaces using Angular, React, and Spring Boot software technologies. Local development technology setup and upgrade assistance and documentation development. Docker, docker-registry, Jenkins, and Azure DevOps CI/CD implementation assistance and troubleshooting.
 
-**Responsibilities**:
-* New consultant resume refinement assistance
-* Ubuntu Linux administration, Windows Subsystem Linux (WSL) configuration and usage
-* AEM, Spring Boot security and deployment support, development issue triage
-* Visual Studio Code React development enablement, Spring Boot development support
-* Azure DevOps board management
+Responsibilities:
 
-**Business/Technology Value**:
-* Managed information and access for new colleagues
-* Improved usage of multiple collaboration tools
+- New consultant resume refinement assistance
+- Ubuntu Linux administration, Windows Subsystem Linux (WSL) configuration and usage
+- AEM, Spring Boot security and deployment support, development issue triage
+- Visual Studio Code React development enablement, Spring Boot development support
+- Azure DevOps board management
+
+Accomplishments:
+
+- Managed information and access for new colleagues
+- Improved usage of multiple collaboration tools
 
 ------
 
 <!-- [Health Alliance Plan](https://www.hap.org/) -->
-###### Perficient Client - Major Healthcare : *DevOps Engineer* : __Jul-2021-Sept-2021__
+*DevOps Engineer* : Major Healthcare : __Jul-2021-Sept-2021__
 
 Developed prototypes and proofs to support technology migration and shift in-progress at client site.
 
-**Responsibilities**:
-* Technology roles – Azure Data Pipeline analysis
-* Apache Spark vs Azure Procfwk tooling analysis
+Responsibilities:
 
-**Business/Technology Value**:
-* Provided framework considerations to common data loader needs
+- Technology roles – Azure Data Pipeline analysis
+- Apache Spark vs Azure Procfwk tooling analysis
+
+Accomplishments*:
+
+- Provided framework considerations to common data loader needs
+- Increased performance and reduced compute time costs for data validation scripting using scala code
 
 ------
 
-###### Perficient Client - Perficient : *BrightPaths 1 Technical Trainer* : __Apr-2020-Jan-2021__
-
-[Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program)
+*BrightPaths 1 Technical Trainer* : Perficient Inc - [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program) : __Apr-2020-Jan-2021__
 
 Technical interviewing, coaching, and team building to enable recent career-changing technical bootcamp graduates. Assisted, delegated, and troubleshooted on-boarding to multiple DevOps delivery systems incorporating various Java, JavaScript, and Jenkins with Azure DevOps tooling utilization and exposures. Operated as initial scrum master and promoted role growth and attraction for team members to various specialties in the full-stack architecture paradigm.
 
-**Responsibilities**:
-* Technology roles – Azure Project Admin, Docker deployment, Spring Boot, ReactJS, AngularJS, Linux Admin
-* Scrum Master, Technology coach, Release Train Engineer
-* Team reporting, resource management, product owner/stakeholder negotiation
-* Office365, Atlassian, VPN/Firewall, Azure Teams Access management
-* Projects infrastructure maintenance
+Responsibilities:
 
-**Business/Technology Value**:
-* Facilitated colleague growth and improvement
-* Reinforced and evolved process and technology
-* Invested in STEM culture community
-* Enhanced marketing and brand exposure
-* Promoted strategic growth through people and technology investment
+- Technology roles – Azure Project Admin, Docker deployment, Spring Boot, ReactJS, AngularJS, Linux Admin
+- Scrum Master, Technology coach, Release Train Engineer
+- Team reporting, resource management, product owner/stakeholder negotiation
+- Office365, Atlassian, VPN/Firewall, Azure Teams Access management
+- Projects infrastructure maintenance
+
+Accomplishments:
+
+- Facilitated colleague growth and improvement
+- Reinforced and evolved process and technology
+- Invested in STEM culture community
+- Enhanced marketing and brand exposure
+- Promoted strategic growth through people and technology investment
 
 ------
  
 <!-- [Caterpillar](https://www.caterpillar.com/) -->
-###### Perficient Client - Major Manufacturing : *AEM DevOps Engineer* : __Oct-2020-Jan-2021__
+*AEM DevOps Engineer* : Major Manufacturing : __Oct-2020-Jan-2021__
 
 Analyzed and integrated multiple site configurations to advise promoting development operations release train transition and management to DevOps right and left shift deployment strategies. OpenShift 3 and OpenShift 4 Apache on-premises and cloud-based deployment migrations from IBM HTTP Server cluster configuration. Multiple configuration and firewall negotiation troubleshooting.
 
-**Responsibilities**:
-* Multiple technology roles – AEM 6.5, Linux Admin, OpenShift, HTTP Server
-* Apache on AWS - Site and Configuration Management
-* Akamai CDN site properties
-* Infrastructure feature tooling and migration delivery
+Responsibilities:
 
-**Business/Technology Value**:
-* Improved site configuration deployment processes
-* Enhanced security hardening and mitigation methods
-* Improved product information management catalogue integration performance
-* Ensured smooth transition between IBM HTTP and Apache version upgrade
-* Facilitated DevOps adoption and integration discussions with client architects
+- Multiple technology roles – AEM 6.5, Linux Admin, OpenShift, HTTP Server
+- Apache on AWS - Site and Configuration Management
+- Akamai CDN site properties
+- Infrastructure feature tooling and migration delivery
+
+Accomplishments:
+
+- Improved site configuration deployment processes
+- Enhanced security hardening and mitigation methods
+- Improved product information management catalogue integration performance
+- Ensured smooth transition between IBM HTTP and Apache version upgrade
+- Facilitated DevOps adoption and integration discussions with client architects
 
 ------
 
 <!-- [Ford Motor Company](https://www.ford.com) -->
-###### Perficient Client - Major Manufacturing : *DevOps Agile Coach* : __Apr-2016-Jan-2020__
+*DevOps Agile Coach* : Major Manufacturing : __Apr-2016-Jan-2020__
 
 Agile transformation impacting multiple teams utilizing Rally, Office tools, and requirements management software. Crafting agile product conversions by detailing Continuous Integration (CI), Continuous Testing (CT), and Continuous Deployment (CD) implementing Jenkins with containers. Influencing backlog and product setups in social platform integrations and multiple technology adaptations.
 
-**Responsibilities**:
-* Multiple technology roles – AEM, Jenkins, Nexus, Cloud Foundry
-* Jenkins setup, securing, and job administration
-* Deliver new technology tools training
-* Agile Rally backlog usage and coaching
-* Infrastructure delivery technologist new tool usage and setup
+Responsibilities:
 
-**Business/Technology Value**:
-* Achieved planned cost reduction and technology currency via effective onboarding of new technologies
-* DevSecOps adoption
-* Improved risk and planning management
-* Results-driven
-* Timely execution of project deliverables
-* Exceeded business expectations per initial program requirements
+- Multiple technology roles – AEM, Jenkins, Nexus, Cloud Foundry
+- Jenkins setup, securing, and job administration
+- Deliver new technology tools training
+- Agile Rally backlog usage and coaching
+- Infrastructure delivery technologist new tool usage and setup
+
+Accomplishments:
+
+- Achieved planned cost reduction and technology currency via effective onboarding of new technologies
+- DevSecOps adoption
+- Improved risk and planning management
+- Results-driven
+- Timely execution of project deliverables
+- Exceeded business expectations per initial program requirements
 
 ------
+------
 
-##### [Pyramid Solutions](https://pyramidsolutions.com/) : *Senior Software Engineer* : __August 2013-March 2016__
+**Senior Software Engineer** : [Pyramid Solutions](https://pyramidsolutions.com/) :  __August 2013-March 2016__
 
 Enterprise Content Management (ECM) group performing IBM Case Manager 5.2.1 installation and solution development. Additional experiences with IBM Content Navigator plugin development - JSON, DOJO, CSS, Java, JavaScript. Additional background applying installation architecture duties implementing a multitude of IBM products -- IBM FileNet, IBM Case Manager 5.2.1, IBM Content Navigator 2.0.3, IBM Content Collector, IBM Content Search Services. These products were installed under the WebSphere 8.5.5 environment on Windows Server 2012 R2 with high-encryption Secure Socket Layer (SSL) configuration and FINRA WORM compliant storage for non-repudiated storage of content. Integrated with an exceptional team we delivered advanced business process management using the IBM Case Manager and Pyramid Solutions created application solution for insurance and banking industries.
 
-**Responsibilities**:
-* Created secure configuration platform testing server installations
-* Integrated SOA web service secure integrations
-* Provided advanced troubleshooting and issue resolution on WebSphere and Apache servers
+Responsibilities:
 
-**Business/Technology Value**:
-* Reduced time to market for complex product testing
-* Created reusable document templates for repeatable installation procedures
-* Increased responsiveness to client secure configuration troubleshooting
+- Created secure configuration platform testing server installations
+- Integrated SOA web service secure integrations
+- Provided advanced troubleshooting and issue resolution on WebSphere and Apache servers
+
+Accomplishments:
+
+- Reduced time to market for complex product testing
+- Created reusable document templates for repeatable installation procedures
+- Increased responsiveness to client secure configuration troubleshooting
+
+------
 
 *Platform and Testing Support – Senior Software Engineer*
 
 Created install base for IBM Content Manager 8.4 software on Windows 2003 server which was connected to Windows Server 2012R2 configuration hosting P8 to create and test interfaces for Snowbound VirtualViewer development. This code created IBM FileNet Content Platform Engine 5.2 software connectivity to the Snowbound VirtualViewer using IBM Content Navigator (ICN) version 2.0.3 plugin connection software artifact and separate web container artifact that connected the repository to the viewer for content viewing and markup. Also created Content Manager On Demand (ODWEK) configuration on separate virtual machine for development and connectivity tests to the same viewer. Duration: 4 months; October 2015 to January 2016
 
+------
+
 *Technical Testing Lead Engineer – Senior Software Engineer*
 
 Provided installation services and development support for a new tool which exported data from Content Manager 8.4 to Pyramid Solutions ingestion toolkit named Migration Manager. This new tool was drafted for functionality and then recreated in a multi-threaded configuration for performance needs. The refactored tool increased processing speeds from 2-5 documents per second to over 20 documents per second. Additional test and configuration management assisted developing this tool for notelogs and annotations conversions from Content Manager 8.4. Duration: 3 months; December 2015 to February 2016
+
+------
 
 *Installation and Configuration Management – Senior Software Engineer*
 
 Installed multiple software on Red Hat Linux 6.5 platform for a major banking institution. Developed installation and configuration runbook and documented details to install software, create and manage security and provided a rollout document to prepare and deploy solution between environments. This was a reoccurring engagement from a previous install effort executed as an agile exercise to install and create the environment for this client. Additional responsibilities included overseeing configuration and integration of SSL certificates, database creation and tuning, web server and plugin configurations under the WebSphere environment as well as various details to assist development and analyst team members to create and promote the solution. Duration: 9 months; February 2015 to November 2015
 
+------
+
 *IBM Content Navigator Plugin Developer – Senior Software Engineer*
 
 Created development profile and initial approach to new IBM Content Navigator (ICN) plugin development for a large auto-insurance provider located in Lansing, Michigan. This work provided an outline and approach to development of new software artifacts under the new software paradigm of ICN to create additional functionality via plugins. The code integrated third-party web services data using external data services and created custom DOJO presentation widgets to provide custom search and retrieve functionality from the system of record hosted software calling into the ICN plugin. The development approach was clearly documented and reused by members of the team to create additional ICN plugins and functionality per their various requirements. Duration: 4 months; August 2014 to November 2014
+
+------
 
 *5.1 to 5.2 Migration Engineer – Senior Software Engineer*
 
 Provided software installation services and migration impact analysis and procedure documentation for a large banking institution located in Troy, Michigan. This project allowed for analysis of new software configuration and environment management to move the various client repositories from IBM FileNet 5.1 to IBM Content Platform Engine 5.2 in an existing and highly-available environment. Various mappings of functionality, security, management of content and network configurations were considered for migration and update. These included uses of IBM Records Management, Cognos Real-Time-Monitoring and hardware and platform considerations for Red Hat 6.5 environment upgrade for the IBM content repository configurations. This provided reusable instructions to migrate each environment to the new software with minimal impact to the users and how to recycle hardware into the new configuration to provide improved response time and equal processing. Duration: 5 months; February 2014 to June 2014
 
 ------
+------
 
-##### [HBM Prenscia](https://www.hbkworld.com/) (formerly HBM Inc. / nCode International) : *Applications Specialist* : __February 2005-August 2013__
+**Applications Specialist** : [HBM](https://www.hbkworld.com/en/products/software/durability/ncode-automation-data-storage-and-automated-reporting) (formerly nCode International) : __February 2005-August 2013__
 
 Mentored and maintained new and existing customer installations and third-party associated products through multiple version upgrades of the ICE-flow Library and nCode Automation product.
 
 Enterprise integration architect specializing in deployment and product packaging. Acted to secure applications deployments via Secure Socket Layer configuration and software enhancements which enable nCode Automation software hardening through Single-Sign-On (SSO), HTTPS, FTPS, smart card and AD/LDAPS customer site integrations. The nCode Automation product provides web-based advanced statistical analysis of finite elements within the nCode brand suite. The signal processing capabilities provide condition-based maintenance and engineering tests for design of durability and quality.
 
-**Responsibilities**:
-* Provide advanced hardware configuration and architecture designs
-* Develop and execute scalability and load testing configurations
-* Isolate and troubleshoot network, hardware, and software configuration issues
-* Create and deliver international five-day usage and installation certification course
+Responsibilities:
 
-**Business/Technology Value**:
-* Reduced product installation time from two weeks to 10 minutes
-* Improved customer and field engineer relations
-* Created repeatable load testing and metrics reports for software performance
-* Agile spike porting software from EJB 2 to EJB 3 technology
+- Provide advanced hardware configuration and architecture designs
+- Develop and execute scalability and load testing configurations
+- Isolate and troubleshoot network, hardware, and software configuration issues
+- Create and deliver international five-day usage and installation certification course
+
+Accomplishments:
+
+- Reduced product installation time from two weeks to 10 minutes
+- Improved customer and field engineer relations
+- Created repeatable load testing and metrics reports for software performance
+- Agile spike porting software from EJB 2 to EJB 3 technology
 
 nCode Automation is a data management interface application used to perform fatigue engineering analysis. The application framework is based on a mixed implementation of J2EE infrastructure and workbench coupled with a C++ application server performing file manipulation and statistical computation against a range of data acquisition unit, time-series datasets. RPC data formats taken from test harness hardware are archived, manipulated, and managed across projects and roles implemented at a given client. Major clients include Chrysler, American Axle, Ford, Hyundai, Nexteer, and Lockheed Martin.
+
+------
 
 *Automation Support - Applications Specialist*
 
 Mentored and maintained existing customer installations and third-party associated products through multiple version upgrades of the ICE-flow Library and nCode Automation product. Provided advanced hardware configuration and architecture design, implementation, and support assistance throughout customer system life-cycles to improve and update usage paradigms of the nCode Automation product. Developed and executed scalability and load testing utilizing complex data design with XSL and XML scripting to improve user experience and software performance. Isolated network and hardware configurations tested against nCode Automation using Facilita Forecast Web load testing software under WebSphere 6.1, WebSphere 7, JBoss 4, and Oracle 11.
+
+------
 
 *Automation Developer - Applications Specialist*
 
@@ -427,105 +458,118 @@ Applied a web-component design and implementation using a custom Java swing inte
 Major accomplishments included structuring and defining the multiple component application build system using Maven 1.x and 3.x, EJB 2.0 to 3.1 and JPA 2.0 proof of concept code porting, customer support processes definition using Salesforce and internal application of nCode Automation as well as release management and service level agreement negotiation for legacy customers migrating to the updated application platform. Additional responsibilities included general Information Technology support for network and mail applications negotiated between United Kingdom and United States offices in addition to capacity planning and support infrastructure recommendations. Induction training for this position was achieved during a one-month stay in Sheffield, England at the United Kingdom headquarters.
 
 ------
+------
 
-##### Compuware Corporation : *Customer Support Representative* : __November 1993-November 2004__
+**Customer Support Representative** : [Compuware Corporation](https://www.bmc.com/support/compuware-support.html#) : __November 1993-November 2004__
 
 Optimal products technical training and Java 2 Enterprise Edition (J2EE) specifications applied to identify program environment quality and usability improvements.
 
-**Responsibilities**:
-* Internal and external use-groups monitoring and response
-* Collaborate advanced deployment architecture issue resolution and problem resolution
-* Provide training and documentation input and feedback during product life cycle
-* Advised team leader role to improve product call center logistics and support role duties
+Responsibilities:
 
-**Business/Technology Value**:
-* Delivered train-the-trainer software release update instruction
-* Managed multiple product lines support
-* Provided high-quality response and management to clients as a level 3 technician
+- Internal and external use-groups monitoring and response
+- Collaborate advanced deployment architecture issue resolution and problem resolution
+- Provide training and documentation input and feedback during product life cycle
+- Advised team leader role to improve product call center logistics and support role duties
 
-###### Compuware Product - OptimalJ : *Technical Support Analyst* : __2003-2004__
+Accomplishments:
+
+- Delivered train-the-trainer software release update instruction
+- Managed multiple product lines support
+- Provided high-quality response and management to clients as a level 3 technician
+
+------
+
+*Technical Support Analyst* : Compuware Product - OptimalJ : __2003-2004__
 
 OptimalJ, a J2EE software product developed by Compuware Corporation, was the first product to implement the entire Model Driven Architecture (MDA) paradigm as defined by the Object Management Group (OMG). The OptimalJ product was retired by Compuware in 2008.
 
-###### Compuware Product - OptimalJ : *Customer Service Representative* : __2002-2003__
+------
+
+*Customer Service Representative* : Compuware Product - OptimalJ : __2002-2003__
 
 Product technical training and J2EE specifications applied to identify program environment quality and usability improvements. External use-groups and internal reporting system monitored with responses provided to internal employee and external customer questions regarding MDA and implementation using J2EE platform. Collaborated advanced deployment architecture issue resolution and problem isolation to identify product or vendor origination of problem. Provided training and documentation input and feedback during product life-cycle to improve overall ease of use and clarity of J2EE specification interpretation. Advised team leader role to improve product call center logistics and support role duties.
 
 ------
 
-###### Compuware Product - UNIFACE : *Senior Technical Support Analyst* : __2000-2002__
+*Senior Technical Support Analyst* : Compuware Product - UNIFACE : __2000-2002__
 
 Uniface is a fourth generation database programming language implementing operating system independence via a proprietary runtime environment which originates from 1987 and is still actively marketed. Uniface implements portions of the International Standards Organization (ISO) 7 layer architecture using a three schema architecture approach to manage its database and platform independence.
 
-**Responsibilities**:
-* Perform personnel support for advanced implementations and problem recreations
-* Detailed protocol and systems analysis for client-server and web portal implementations
-* Instruction and facilitation of training provided to communicate Beta product delivery knowledge transfer
+Responsibilities:
 
-**Business/Technology Value**:
-* Created and maintained internal product Special Interest Group
-* Managed and interfaced high-profile client issue solving and problem resolution
-* Provided detail and assistance to multiple platforms support; AIX/SUN/SGI/zOS/AS400/Linux/PC/Apple
+- Perform personnel support for advanced implementations and problem recreations
+- Detailed protocol and systems analysis for client-server and web portal implementations
+- Instruction and facilitation of training provided to communicate Beta product delivery knowledge transfer
+
+Accomplishments:
+
+- Created and maintained internal product Special Interest Group
+- Managed and interfaced high-profile client issue solving and problem resolution
+- Provided detail and assistance to multiple platforms support; AIX/SUN/SGI/zOS/AS400/Linux/PC/Apple
 
 ------
 
-###### Compuware Client - Ford Motor Company : *Technical Specialist* : __1995-1999__
+<!-- [Ford Motor Company](https://www.ford.com) -->
+*Technical Specialist* : Major Automotive :  __1995-1999__
 
 Global Study Process Allocation System (GSPAS) application integration specializing in CAD image format management to the vehicle build information.
 
-**Responsibilities**:
-* Facilitate project subteam to design and develop illustration to build deck instruction pages
-* Collaboratively integrate USA, United Kingdom, German build illustration management to overall system
-* Assist and identify required features and functionality for VisViewGT markup tool
-* Provide standardized integration using CGI image file format ingestion and management to early availability Oracle BLOB storage
+Responsibilities:
 
-**Business/Technology Value**:
-* Consolidation of multiple partner technology solutions to commonized platform
-* Technology leadership utilizing UNIFACE
-* Delivery to global plant teams
-* Print and platform deployment to multiple host operating systems (AIX, HP, Sun UNIX, Windows PC NT4)
+- Facilitate project subteam to design and develop illustration to build deck instruction pages
+- Collaboratively integrate USA, United Kingdom, German build illustration management to overall system
+- Assist and identify required features and functionality for VisViewGT markup tool
+- Provide standardized integration using CGI image file format ingestion and management to early availability Oracle BLOB storage
+
+Accomplishments:
+
+- Consolidation of multiple partner technology solutions to commonized platform
+- Technology leadership utilizing UNIFACE
+- Delivery to global plant teams
+- Print and platform deployment to multiple host operating systems (AIX, HP, Sun UNIX, Windows PC NT4)
 
 ------
+------
 
-#### Wayne State University : *Professional Technician* : __September 2003-April 2004__
+*Professional Technician* : Wayne State University : __September 2003-April 2004__
 
 Develop and deliver 14-week course covering concept and implementation of Model Driven Architecture as provided by Compuware’s OptimalJ product.
 
-**Responsibilities**:
-* Develop 14-week syllabus, courseware, and exams
-* Assist Masters-level students in use and understanding of Java technology
-* Assist Masters-level students in use and understanding of Unified Modelling Language (UML)
-* Assist Masters-level students in interpretation and understanding of Model Driven Architecture
-* Deliver in-person and custom developed course material
+Responsibilities:
 
-**Business/Technology Value**:
-* Created business to academia synergies for technology and industry
-* Provided distilled and practical training for advanced technology concepts
+- Develop 14-week syllabus, courseware, and exams
+- Assist Masters-level students in use and understanding of Java technology
+- Assist Masters-level students in use and understanding of Unified Modelling Language (UML)
+- Assist Masters-level students in interpretation and understanding of Model Driven Architecture
+- Deliver in-person and custom developed course material
+
+Accomplishments:
+
+- Created business to academia synergies for technology and industry
+- Provided distilled and practical training for advanced technology concepts
 
 ------
+------
 
-#### [Taco Bell](https://www.tacobell.com/) : *Food Preparer* : __August 1993-October 1993__
+- **Food Preparer** : [Taco Bell](https://www.tacobell.com/) :  __August 1993-October 1993__
+- **Warehouse Delivery** : [Art Van Furniture](https://www.artvan.com/) :  __September 1991-June 1993__
+- **Truck Driver/Helper** : [St Vincent Depaul Society](https://svdpdetroit.org) : __May 1992-June 1993__
+- **Programmer Trainee** :[Crain Communications](https://www.crain.com/) :  __May 1990-August 1991__
+- **Pizza Chef** : [Capraros Italian Den](https://www.activediner.com/capraros-italian-den/restaurant/troy/mi/us/profile/144250) :  __February 1989-April 1991__
+- **Pizza Cook** : [Jetts Pizza](https://www.jetspizza.com/) :  __June 1988-December 1988__
+- **Dishwasher** : [Antonio's Italian Cuisine](https://www.antoniositaliancuisine.com/) : __May 1986-February 1987__
+- **Dishwasher** : [National Coney Island](https://nationalconeyisland.com/) : __July 1985-September 1985__
 
-#### [Art Van Furniture](https://www.artvan.com/) : *Warehouse Delivery* : __September 1991-June 1993__
-
-#### [St Vincent Depaul Society](https://svdpdetroit.org) : *Truck Driver/Helper* : __May 1992-June 1993__
-
-#### [Crain Communications](https://www.crain.com/) : *Programmer Trainee* : __May 1990-August 1991__
-
-#### [Capraros Italian Den](https://www.activediner.com/capraros-italian-den/restaurant/troy/mi/us/profile/144250) : *Pizza Chef* : __February 1989-April 1991__
-
-#### [Jetts Pizza](https://www.jetspizza.com/) : *Pizza Cook* : __June 1988-December 1988__
-
-#### [Antonio's Italian Cuisine](https://www.antoniositaliancuisine.com/) : *Dishwasher*
-
-#### [National Coney Island](https://nationalconeyisland.com/) : *Dishwasher*
-
+------
 ------
 
 References available upon request or may be reviewed at [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson)
 
 ------
+------
+------
 
+## Appendix
 ### Technology Domain References
 
 Release dates and vendors for each of the technologies mentioned:
