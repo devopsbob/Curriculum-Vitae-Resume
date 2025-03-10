@@ -2,13 +2,13 @@
 **Sterling Heights, Michigan, 48310**<br>
 **[mailto:devopsbob@outlook.com](mailto:devopsbob@outlook.com)**<br>
 **[LinkedIn - Bob Kranson - https://www.linkedin.com/in/bobkranson](https://www.linkedin.com/in/bobkranson)**<br>
-**[Porfolio - Bob Kranson - https://devopsbob.github.io/Curriculum-Vitae-Resume](https://devopsbob.github.io/Curriculum-Vitae-Resume)**<br>
+**[Portfolio - Bob Kranson - https://devopsbob.github.io/Curriculum-Vitae-Resume](https://devopsbob.github.io/Curriculum-Vitae-Resume)**<br>
 
 ------
 
 ## Professional Summary
 
-As a technical architect, I have expertise in multiple technology areas and exposure to multiple industries. My combined social, academic, and professional experience provides you with someone adaptable to multiple project management methodologies and transparent delivery of advanced technical solutions. I have track-proven experience in designing scalable platforms for hardware and software utilizing multi-hosted, multi-tiered, distributed, or containerized implementations. I am also well-versed in release pipeline and delivery technologies using Azure DevOps or Jenkins and GitHub source management.
+As a **Technical Architect**, I have expertise in multiple technology areas and exposure to multiple industries. My combined social, academic, and professional experience provides you with someone **adaptable to multiple project management methodologies** and transparent delivery of advanced technical solutions. I have track-proven experience in **designing scalable platforms** for hardware and software utilizing multi-hosted, multi-tiered, distributed, or containerized implementations, resulting in a 20% **reduction in operational costs**. I am also well-versed in **release pipeline and delivery** technologies using Azure DevOps or Jenkins and GitHub source management.
 
 ## Education
 
@@ -152,10 +152,12 @@ As a technical architect, I have expertise in multiple technology areas and expo
 
 **Technical Architect** : [Perficient](https://www.perficient.com/) : __March 2016-February 2025__
 
+Perficient is a digital consultancy that helps clients create, deploy, and optimize digital solutions across various industries and functions.
+
 ------
 
 <!-- [Ford Motor Company](https://www.ford.com) -->
-*Business Analyst* : Major Manufacturer : __Oct-2024-Dec-2024__
+**Business Analyst** : *Major Manufacturer* : __Oct-2024-Dec-2024__
 
 Generative artificial intelligence impact and usage analysis on authoring process regarding staged release of engineering data. 
 
@@ -173,7 +175,7 @@ Accomplishments:
 ------
 
 <!-- [DTE Energy](https://www.dteenergy.com/) -->
-*Technical Architect* : Major Utility :  __Apr-2024-Aug-2024__
+**Technical Architect** : *Major Utility* :  __Apr-2024-Aug-2024__
 
 Security analysis and configuration porting assessments and technology infrastructure secure application scaffolding to enable continued use of legacy reports integrated into multiple enterprise systems.
 
@@ -193,7 +195,7 @@ Accomplishments:
 ------
 
 <!-- [TRowePrice](https://www.troweprice.com/) -->
-*Release Engineer* : Major Finance :  __Oct-2023-Dec-2023__
+**Release Engineer** : *Major Finance* :  __Oct-2023-Dec-2023__
 
 Gitlab on-premises solution integrated into Adobe Cloud runtime. Compartmentalize git repository changes to create and verify GPG signed commits withholding history and mainaining content release control from internal onsite ITIL tools.
 
@@ -212,7 +214,7 @@ Accomplishments:
 ------
 
 <!-- [DTE Energy](https://www.dteenergy.com/)  -->
-*Release Engineer* : Major Utility :  __Apr-2023-Sept-2023__
+**Release Engineer** : *Major Utility* :  __Apr-2023-Sept-2023__
 
 Azure infrastructure-as-code using Bicep templates to support solution development and delivery using Azure LogicApps, ReactJS, ArcGIS Enterprise, and Cosmos DB.
 
@@ -231,7 +233,7 @@ Accomplishments:
 ------
 
 <!-- [Blue Cross Blue Shield of Michigan](https://www.bcbsm.com/)  -->
-*Business Analyst* : Major Healthcare :  __Oct-2022-Mar-2023__
+**Business Analyst** : *Major Healthcare* :  __Oct-2022-Mar-2023__
 
 Business analyst assisting big data analytics modeling and data movement between multiple vendor data stores.
 
@@ -251,7 +253,7 @@ Accomplishments:
 ------
 
 <!--  [Cass Bank](https://www.cassbank.com/)  [Gyve Application](https://gyve.com/)  -->
-*DevOps Engineer* : Major Finance : __Jan-2022-May-2022__
+**DevOps Engineer** : *Major Finance* : __Jan-2022-May-2022__
 
 Converted Cloud66 deployment mechanism for Ruby on Rails application to Azure DevOps pipelines by recreating controlled Ubuntu VMAgents and deployment hosts using Azure pipeline and bash scripting. 
 
@@ -267,7 +269,7 @@ Accomplishments:
 
 ------
 
-*BrightPaths 2 Technical Trainer* : Perficient Inc - [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program) : __Jan-2021-Dec-2021__
+**BrightPaths 2 Technical Trainer** : Perficient Inc - [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program) : __Jan-2021-Dec-2021__
 
 Colleague onboarding to multiple secured development environments including TFS/Azure DevOps, Confluence, and SharePoint 2020. Agile backlog and ceremonies administered to engage new team members building user interfaces using Angular, React, and Spring Boot software technologies. Local development technology setup and upgrade assistance and documentation development. Docker, docker-registry, Jenkins, and Azure DevOps CI/CD implementation assistance and troubleshooting.
 
@@ -287,7 +289,7 @@ Accomplishments:
 ------
 
 <!-- [Health Alliance Plan](https://www.hap.org/) -->
-*DevOps Engineer* : Major Healthcare : __Jul-2021-Sept-2021__
+**DevOps Engineer** : *Major Healthcare* : __Jul-2021-Sept-2021__
 
 Developed prototypes and proofs to support technology migration and shift in-progress at client site.
 
@@ -296,14 +298,14 @@ Responsibilities:
 - Technology roles – Azure Data Pipeline analysis
 - Apache Spark vs Azure Procfwk tooling analysis
 
-Accomplishments*:
+Accomplishments:
 
 - Provided framework considerations to common data loader needs
 - Increased performance and reduced compute time costs for data validation scripting using scala code
 
 ------
 
-*BrightPaths 1 Technical Trainer* : Perficient Inc - [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program) : __Apr-2020-Jan-2021__
+**BrightPaths 1 Technical Trainer** : Perficient Inc - [Bright Paths Program](https://www.perficient.com/who-we-are/perficient-bright-paths-program) : __Apr-2020-Jan-2021__
 
 Technical interviewing, coaching, and team building to enable recent career-changing technical bootcamp graduates. Assisted, delegated, and troubleshooted on-boarding to multiple DevOps delivery systems incorporating various Java, JavaScript, and Jenkins with Azure DevOps tooling utilization and exposures. Operated as initial scrum master and promoted role growth and attraction for team members to various specialties in the full-stack architecture paradigm.
 
@@ -326,7 +328,7 @@ Accomplishments:
 ------
  
 <!-- [Caterpillar](https://www.caterpillar.com/) -->
-*AEM DevOps Engineer* : Major Manufacturing : __Oct-2020-Jan-2021__
+**AEM DevOps Engineer** : *Major Manufacturing* : __Oct-2020-Jan-2021__
 
 Analyzed and integrated multiple site configurations to advise promoting development operations release train transition and management to DevOps right and left shift deployment strategies. OpenShift 3 and OpenShift 4 Apache on-premises and cloud-based deployment migrations from IBM HTTP Server cluster configuration. Multiple configuration and firewall negotiation troubleshooting.
 
@@ -348,7 +350,7 @@ Accomplishments:
 ------
 
 <!-- [Ford Motor Company](https://www.ford.com) -->
-*DevOps Agile Coach* : Major Manufacturing : __Apr-2016-Jan-2020__
+**DevOps Agile Coach** : *Major Manufacturing* : __Apr-2016-Jan-2020__
 
 Agile transformation impacting multiple teams utilizing Rally, Office tools, and requirements management software. Crafting agile product conversions by detailing Continuous Integration (CI), Continuous Testing (CT), and Continuous Deployment (CD) implementing Jenkins with containers. Influencing backlog and product setups in social platform integrations and multiple technology adaptations.
 
@@ -390,31 +392,31 @@ Accomplishments:
 
 ------
 
-*Platform and Testing Support – Senior Software Engineer*
+**Platform and Testing Support** : Pyramid Solutions : __October 2015-January 2016__
 
-Created install base for IBM Content Manager 8.4 software on Windows 2003 server which was connected to Windows Server 2012R2 configuration hosting P8 to create and test interfaces for Snowbound VirtualViewer development. This code created IBM FileNet Content Platform Engine 5.2 software connectivity to the Snowbound VirtualViewer using IBM Content Navigator (ICN) version 2.0.3 plugin connection software artifact and separate web container artifact that connected the repository to the viewer for content viewing and markup. Also created Content Manager On Demand (ODWEK) configuration on separate virtual machine for development and connectivity tests to the same viewer. Duration: 4 months; October 2015 to January 2016
-
-------
-
-*Technical Testing Lead Engineer – Senior Software Engineer*
-
-Provided installation services and development support for a new tool which exported data from Content Manager 8.4 to Pyramid Solutions ingestion toolkit named Migration Manager. This new tool was drafted for functionality and then recreated in a multi-threaded configuration for performance needs. The refactored tool increased processing speeds from 2-5 documents per second to over 20 documents per second. Additional test and configuration management assisted developing this tool for notelogs and annotations conversions from Content Manager 8.4. Duration: 3 months; December 2015 to February 2016
+Created install base for IBM Content Manager 8.4 software on Windows 2003 server which was connected to Windows Server 2012R2 configuration hosting P8 to create and test interfaces for Snowbound VirtualViewer development. This code created IBM FileNet Content Platform Engine 5.2 software connectivity to the Snowbound VirtualViewer using IBM Content Navigator (ICN) version 2.0.3 plugin connection software artifact and separate web container artifact that connected the repository to the viewer for content viewing and markup. Also created Content Manager On Demand (ODWEK) configuration on separate virtual machine for development and connectivity tests to the same viewer.
 
 ------
 
-*Installation and Configuration Management – Senior Software Engineer*
+**Technical Testing Lead Engineer** : Pyramid Solutions : __December 2015-February 2016__ 
 
-Installed multiple software on Red Hat Linux 6.5 platform for a major banking institution. Developed installation and configuration runbook and documented details to install software, create and manage security and provided a rollout document to prepare and deploy solution between environments. This was a reoccurring engagement from a previous install effort executed as an agile exercise to install and create the environment for this client. Additional responsibilities included overseeing configuration and integration of SSL certificates, database creation and tuning, web server and plugin configurations under the WebSphere environment as well as various details to assist development and analyst team members to create and promote the solution. Duration: 9 months; February 2015 to November 2015
-
-------
-
-*IBM Content Navigator Plugin Developer – Senior Software Engineer*
-
-Created development profile and initial approach to new IBM Content Navigator (ICN) plugin development for a large auto-insurance provider located in Lansing, Michigan. This work provided an outline and approach to development of new software artifacts under the new software paradigm of ICN to create additional functionality via plugins. The code integrated third-party web services data using external data services and created custom DOJO presentation widgets to provide custom search and retrieve functionality from the system of record hosted software calling into the ICN plugin. The development approach was clearly documented and reused by members of the team to create additional ICN plugins and functionality per their various requirements. Duration: 4 months; August 2014 to November 2014
+Provided installation services and development support for a new tool which exported data from Content Manager 8.4 to Pyramid Solutions ingestion toolkit named Migration Manager. This new tool was drafted for functionality and then recreated in a multi-threaded configuration for performance needs. The refactored tool increased processing speeds from 2-5 documents per second to over 20 documents per second. Additional test and configuration management assisted developing this tool for notelogs and annotations conversions from Content Manager 8.4. 
 
 ------
 
-*5.1 to 5.2 Migration Engineer – Senior Software Engineer*
+**Installation and Configuration Management** : *Major Finance* : __February 2015-November 2015__ 
+
+Installed multiple software on Red Hat Linux 6.5 platform for a major banking institution. Developed installation and configuration runbook and documented details to install software, create and manage security and provided a rollout document to prepare and deploy solution between environments. This was a reoccurring engagement from a previous install effort executed as an agile exercise to install and create the environment for this client. Additional responsibilities included overseeing configuration and integration of SSL certificates, database creation and tuning, web server and plugin configurations under the WebSphere environment as well as various details to assist development and analyst team members to create and promote the solution. 
+
+------
+
+**IBM Content Navigator Plugin Developer** : *Major Insurance* : __August 2014-November 2014__
+
+Created development profile and initial approach to new IBM Content Navigator (ICN) plugin development for a large auto-insurance provider located in Lansing, Michigan. This work provided an outline and approach to development of new software artifacts under the new software paradigm of ICN to create additional functionality via plugins. The code integrated third-party web services data using external data services and created custom DOJO presentation widgets to provide custom search and retrieve functionality from the system of record hosted software calling into the ICN plugin. The development approach was clearly documented and reused by members of the team to create additional ICN plugins and functionality per their various requirements.
+
+------
+
+**5.1 to 5.2 Migration Engineer** : *Major Finance* : __February 2014-June 2014__
 
 Provided software installation services and migration impact analysis and procedure documentation for a large banking institution located in Troy, Michigan. This project allowed for analysis of new software configuration and environment management to move the various client repositories from IBM FileNet 5.1 to IBM Content Platform Engine 5.2 in an existing and highly-available environment. Various mappings of functionality, security, management of content and network configurations were considered for migration and update. These included uses of IBM Records Management, Cognos Real-Time-Monitoring and hardware and platform considerations for Red Hat 6.5 environment upgrade for the IBM content repository configurations. This provided reusable instructions to migrate each environment to the new software with minimal impact to the users and how to recycle hardware into the new configuration to provide improved response time and equal processing. Duration: 5 months; February 2014 to June 2014
 
@@ -423,9 +425,11 @@ Provided software installation services and migration impact analysis and proced
 
 **Applications Specialist** : [HBM](https://www.hbkworld.com/en/products/software/durability/ncode-automation-data-storage-and-automated-reporting) (formerly nCode International) : __February 2005-August 2013__
 
-Mentored and maintained new and existing customer installations and third-party associated products through multiple version upgrades of the ICE-flow Library and nCode Automation product.
+nCode Automation is a data management interface application used to perform fatigue engineering analysis for testig design of durability and quality. The application framework is based on a mixed implementation of Java Enterprise Edition infrastructure and workbench coupled with a C++ application server performing file manipulation and statistical computation against a range of data acquisition unit, time-series datasets. RPC data formats taken from test harness hardware are archived, manipulated, and managed across projects and roles implemented at a given client. 
 
-Enterprise integration architect specializing in deployment and product packaging. Acted to secure applications deployments via Secure Socket Layer configuration and software enhancements which enable nCode Automation software hardening through Single-Sign-On (SSO), HTTPS, FTPS, smart card and AD/LDAPS customer site integrations. The nCode Automation product provides web-based advanced statistical analysis of finite elements within the nCode brand suite. The signal processing capabilities provide condition-based maintenance and engineering tests for design of durability and quality.
+Enterprise integration architect specializing in deployment and product packaging. Acted to secure applications deployments via Secure Socket Layer configuration and software enhancements which enable nCode Automation software hardening through Single-Sign-On (SSO), HTTPS, FTPS, smart card and AD/LDAPS customer site integrations. 
+
+Mentored and maintained new and existing customer installations and third-party associated products through multiple version upgrades of the ICE-flow Library and nCode Automation product.
 
 Responsibilities:
 
@@ -441,17 +445,9 @@ Accomplishments:
 - Created repeatable load testing and metrics reports for software performance
 - Agile spike porting software from EJB 2 to EJB 3 technology
 
-nCode Automation is a data management interface application used to perform fatigue engineering analysis. The application framework is based on a mixed implementation of J2EE infrastructure and workbench coupled with a C++ application server performing file manipulation and statistical computation against a range of data acquisition unit, time-series datasets. RPC data formats taken from test harness hardware are archived, manipulated, and managed across projects and roles implemented at a given client. Major clients include Chrysler, American Axle, Ford, Hyundai, Nexteer, and Lockheed Martin.
-
 ------
 
-*Automation Support - Applications Specialist*
-
-Mentored and maintained existing customer installations and third-party associated products through multiple version upgrades of the ICE-flow Library and nCode Automation product. Provided advanced hardware configuration and architecture design, implementation, and support assistance throughout customer system life-cycles to improve and update usage paradigms of the nCode Automation product. Developed and executed scalability and load testing utilizing complex data design with XSL and XML scripting to improve user experience and software performance. Isolated network and hardware configurations tested against nCode Automation using Facilita Forecast Web load testing software under WebSphere 6.1, WebSphere 7, JBoss 4, and Oracle 11.
-
-------
-
-*Automation Developer - Applications Specialist*
+**Application Developer** : *Major Automotive* : __February 2005-August 2013__
 
 Applied a web-component design and implementation using a custom Java swing interface. The core processing uses Enterprise Java Beans and direct data access to store Meta data regarding test data or RPC acquisition information. Core statistical functions are accessed via XML interchange to a proprietary C++ application server, GlyphWorks, which provides work-flow statistical applications and statistics graphing output. Developed and delivered a five-day product certification course to company internal engineers (application users) representing England, China, South Korea, and United States resellers and engineering users.
 
@@ -479,19 +475,19 @@ Accomplishments:
 
 ------
 
-*Technical Support Analyst* : Compuware Product - OptimalJ : __2003-2004__
+**Technical Support Analyst** : Compuware Product - OptimalJ : __2003-2004__
 
 OptimalJ, a J2EE software product developed by Compuware Corporation, was the first product to implement the entire Model Driven Architecture (MDA) paradigm as defined by the Object Management Group (OMG). The OptimalJ product was retired by Compuware in 2008.
 
 ------
 
-*Customer Service Representative* : Compuware Product - OptimalJ : __2002-2003__
+**Customer Service Representative** : Compuware Product - OptimalJ : __2002-2003__
 
 Product technical training and J2EE specifications applied to identify program environment quality and usability improvements. External use-groups and internal reporting system monitored with responses provided to internal employee and external customer questions regarding MDA and implementation using J2EE platform. Collaborated advanced deployment architecture issue resolution and problem isolation to identify product or vendor origination of problem. Provided training and documentation input and feedback during product life-cycle to improve overall ease of use and clarity of J2EE specification interpretation. Advised team leader role to improve product call center logistics and support role duties.
 
 ------
 
-*Senior Technical Support Analyst* : Compuware Product - UNIFACE : __2000-2002__
+**Senior Technical Support Analyst** : Compuware Product - UNIFACE : __2000-2002__
 
 Uniface is a fourth generation database programming language implementing operating system independence via a proprietary runtime environment which originates from 1987 and is still actively marketed. Uniface implements portions of the International Standards Organization (ISO) 7 layer architecture using a three schema architecture approach to manage its database and platform independence.
 
@@ -510,7 +506,7 @@ Accomplishments:
 ------
 
 <!-- [Ford Motor Company](https://www.ford.com) -->
-*Technical Specialist* : Major Automotive :  __1995-1999__
+**Technical Specialist** : *Major Automotive* :  __1995-1999__
 
 Global Study Process Allocation System (GSPAS) application integration specializing in CAD image format management to the vehicle build information.
 
@@ -531,7 +527,7 @@ Accomplishments:
 ------
 ------
 
-*Professional Technician* : Wayne State University : __September 2003-April 2004__
+**Professional Technician** : Wayne State University : __September 2003-April 2004__
 
 Develop and deliver 14-week course covering concept and implementation of Model Driven Architecture as provided by Compuware’s OptimalJ product.
 
@@ -564,67 +560,3 @@ Accomplishments:
 ------
 
 References available upon request or may be reviewed at [LinkedIn - Bob Kranson](https://www.linkedin.com/in/bobkranson)
-
-------
-------
-------
-
-## Appendix
-### Technology Domain References
-
-Release dates and vendors for each of the technologies mentioned:
-
-- **Content Management**:
-  - Adobe Experience Manager: First released in 2013 by Adobe Systems.
-  - IBM Content Navigator: First released in 2012 by IBM.
-  - IBM Content Platform Engine: First released in 2010 by IBM.
-
-- **Java Technologies**:
-  - Java Persistence Architectures (JPA): First released in 2006 as part of the Java EE 5 platform.
-  - Java Enterprise Edition (EE): First version (J2EE 1.2) released in 1999 by Sun Microsystems (later acquired by Oracle Corporation).
-  - EJB 2.0 to 3.1 and JPA 2.0: Developed and maintained by the Java Community Process (JCP). EJB 2.0 released in 2001, EJB 3.0 in 2006, and JPA 2.0 in 2009.
-
-- **Deployment and Infrastructure**:
-  - JBoss deployment: First released in 2002 by JBoss (now owned by Red Hat).
-  - WebSphere deployment architectures: First released in 1998 by IBM.
-  - Docker/Podman: Docker first released in 2013 by Docker Inc. Podman developed by Red Hat.
-  - Kubernetes (K8s): First released in 2014 by Google.
-  - OpenShift: First released in 2011 by Red Hat.
-  - YAML: First released in 2001.
-  - Azure: Microsoft Azure is a cloud computing platform developed and released by Microsoft in 2010.
-  - Jenkins: Jenkins is an open-source automation server for building, testing, and deploying software. It was originally developed as Hudson in 2004, and later renamed Jenkins in 2011.
-
-  - Maven 1.x and 3.x: Developed by the Apache Software Foundation. Maven 1.x released in 2004, Maven 3.x released in 2010.
-  - Gradle: First released in 2007.
-
-- **Database Technologies**:
-  - Oracle database tuning: Various versions released since the late 1970s. Latest major version, Oracle Database 21c, released in 2020.
-  - MySQL database tuning: First released in 1995 by MySQL AB (now owned by Oracle Corporation). Latest major version, MySQL 8.0, released in 2018.
-
-- **Security Technologies**:
-  - SSL Administration: Involves managing SSL certificates, configuring web servers to use SSL, and troubleshooting SSL-related issues.
-  - OAuth2: First released in 2012.
-  - SSO: Allows users to access multiple applications using a single set of credentials. Solutions include Okta, Microsoft Azure AD, and Google Cloud.
-
-- **Operating Systems**:
-  - AIX: Developed and released by IBM.
-  - SUN: Refers to Sun Microsystems, acquired by Oracle Corporation. Solaris released in 1992.
-  - SGI: Developed and released by Silicon Graphics Inc.
-  - zOS: Developed and released by IBM for their mainframe systems.
-  - AS400: Developed and released by IBM as a mid-range server platform.
-  - Linux: Released in 1991 by Linus Torvalds, maintained by the Linux community.
-  - PC: Refers to desktop and laptop computers manufactured by various vendors.
-  - Apple: Vendor of products including Macintosh computers, iPhones, and iPads.
-
-- **Other Technologies**:
-  - XML: XML 1.0 released as a W3C recommendation in 1998.
-  - XSLT: XSLT 1.0 released as a W3C recommendation in 1999.
-  - Visio: First released in 1992 by Microsoft.
-  - MS Teams/O365: Microsoft Teams first released in 2017 as part of Office 365.
-  - WebEx Teams: Originally released as Cisco Spark in 2015, renamed to Webex Teams in 2018.
-  - BlueScape: Developed and released by Bluescape Inc.
-  - BluePrint/Storyteller: Developed by Blueprint Software Systems.
-  - Model Driven Architecture (MDA): Released by Object Management Group (OMG) in 2003.
-  - Unified Modelling Language (UML): Initially released by Rational Software in 1997, later acquired by IBM.
-  - UNIFACE product versions 5.2.g2 through 8.2.03: Developed and released by Compuware Corporation.
-  - International Standards Organization (ISO) 7 layer architecture: ISO/OSI Reference Model introduced in 1983 by ISO.
