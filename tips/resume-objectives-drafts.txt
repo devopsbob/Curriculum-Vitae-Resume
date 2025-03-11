@@ -21,3 +21,5 @@ I manage and create backlogs and various technologies to implement software fram
 I enable agile and scaled agile teams delivery and execution through managed application of applicable standards and best-practices aligned to release train business objectives and outcomes.
 
 
+I manipulate new and existing technologies to implement software frameworks that deliver secure, highly-testable business applications.
+
