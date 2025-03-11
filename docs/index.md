@@ -4,6 +4,7 @@
 **[LinkedIn - Bob Kranson - https://www.linkedin.com/in/bobkranson](https://www.linkedin.com/in/bobkranson)**<br>
 **[Portfolio - Bob Kranson - https://devopsbob.github.io/Curriculum-Vitae-Resume](https://devopsbob.github.io/Curriculum-Vitae-Resume)**<br>
 
+[Robert (Bob) Kranson Resume 2025](./Robert_Kranson_Resume_2025.pdf)
 ------
 
 ## Professional Summary
