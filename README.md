@@ -7,6 +7,12 @@ A curriculum vitae (CV) is an academic diary that lists all of your education, e
 
 A resume should be created to target a specific job application. The format of the resume needs to conform to, or address limitations and expectations of common Application Tracking Systems (ATS) used by industry recruiters. This enables the profile created by the resume to be more fully available to matching algorithmns.
 
+While one might create a resume whichi exceeds a page due to length of experience, some important points are important to remember:
+
+- No more than 1000 words; some recruiter tools truncate to the first 1000 words
+- A Technical Resume; DevOps
+- A Functional Resume; Instructor/Trainer/Scrum or Agile facilitator
+
 ## Setup
 - Github public repository created named 'Curriculum-Vitae-Resume', this is used when printing to PDF
 - Create branch named 'gh-pages'
