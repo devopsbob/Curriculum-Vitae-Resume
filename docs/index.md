@@ -6,6 +6,7 @@
 
 - Generalist Resume - [Robert (Bob) Kranson Resume 2025](./Robert_Kranson_Resume_2025.pdf)
 - DevOps Resume - [DevOps Robert (Bob) Kranson Resume](./Devops_Robert_Kranson_Resume.pdf)
+- Generalist Resume 1-page - [Robert (Bob) Kranson Resume 1pg](./Robert_Kranson_Resume_1pg_2025.pdf)
 
 ------
 
